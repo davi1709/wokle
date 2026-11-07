@@ -1,0 +1,324 @@
+{
+ "demo-h-01": {
+  "prompt": "Em 1893, qual país autogovernado foi o primeiro do mundo a dar às mulheres o direito de voto em eleições parlamentares nacionais?",
+  "options": {
+   "a": "Estados Unidos",
+   "b": "Nova Zelândia",
+   "c": "Reino Unido",
+   "d": "França"
+  },
+  "explanation": "A Lei Eleitoral da Nova Zelândia, sancionada em 19 de setembro de 1893, tornou as mulheres com 21 anos ou mais aptas a votar em eleições parlamentares, e mais de 100 mil mulheres se alistaram em menos de dois meses.",
+  "context": "As mulheres só puderam se candidatar ao Parlamento em 1919, e a lei de 1893 incluiu as mulheres maori nas mesmas condições das demais, embora alguns grupos, como as mulheres chinesas, tenham sido excluídos. Alguns lugares já haviam dado o voto apenas a parte das mulheres (Ilha Pitcairn em 1838, Ilha de Man em 1881), por isso historiadores dizem que a Nova Zelândia foi o primeiro país autogovernado a fazê-lo para as mulheres em geral.",
+  "evidence": [
+   "Afirma que a Lei Eleitoral foi aprovada em 8 de setembro de 1893 e sancionada por Lord Glasgow em 19 de setembro, tornou aptas a votar as mulheres com 21 anos ou mais que fossem súditas britânicas, estendeu o voto às mulheres maori nas mesmas condições, excluiu alguns grupos, como as mulheres chinesas, e que as mulheres puderam se candidatar ao Parlamento em 1919.",
+   "Afirma que a Nova Zelândia foi o primeiro país autogovernado do mundo a consagrar em lei o direito das mulheres de votar em eleições parlamentares, que a lei foi assinada em 19 de setembro de 1893 e que 109.461 mulheres se alistaram menos de dois meses depois.",
+   "Diz que a Nova Zelândia pode justamente reivindicar ser o primeiro país autogovernado a conceder o voto a todas as mulheres adultas e lista concessões parciais anteriores, como a Ilha Pitcairn (1838) e a Ilha de Man (1881, mulheres proprietárias)."
+  ]
+ },
+ "demo-h-02": {
+  "prompt": "O Acordo de Paris, de 2015, tem como meta manter o aquecimento global bem abaixo de qual nível, em relação à era pré-industrial?",
+  "options": {
+   "a": "1 °C",
+   "b": "3 °C",
+   "c": "2 °C",
+   "d": "4 °C"
+  },
+  "explanation": "O Artigo 2 do Acordo de Paris tem como objetivo manter o aumento da temperatura média global bem abaixo de 2 °C acima dos níveis pré-industriais, buscando ao mesmo tempo limitá-lo a 1,5 °C.",
+  "context": "O acordo foi adotado em Paris em 12 de dezembro de 2015 pelas 196 partes da convenção climática da ONU. Cada país define seu próprio plano climático nacional (chamado de contribuição nacionalmente determinada), e cada parte deve apresentar um novo a cada cinco anos.",
+  "evidence": [
+   "O Artigo 2(1)(a) define a meta de manter o aumento da temperatura bem abaixo de 2 °C acima dos níveis pré-industriais e buscar esforços rumo a 1,5 °C; o texto foi adotado na COP21 em 12 de dezembro de 2015, em Paris; o Artigo 4(9) exige que cada parte comunique uma contribuição nacionalmente determinada a cada cinco anos.",
+   "Confirma que o acordo foi adotado em 12 de dezembro de 2015, em Paris, pelas 196 partes da convenção climática da ONU, com o objetivo de manter o aquecimento bem abaixo de 2 °C e buscar 1,5 °C."
+  ]
+ },
+ "demo-h-03": {
+  "prompt": "Em 2001, qual país se tornou o primeiro do mundo a legalizar o casamento entre pessoas do mesmo sexo?",
+  "options": {
+   "a": "Canadá",
+   "b": "Espanha",
+   "c": "Dinamarca",
+   "d": "Países Baixos"
+  },
+  "explanation": "Os Países Baixos foram o primeiro país a adotar o casamento entre pessoas do mesmo sexo: à meia-noite de 1º de abril de 2001, o prefeito de Amsterdã, Job Cohen, casou os quatro primeiros casais do mesmo sexo.",
+  "context": "A Dinamarca foi o primeiro país a oferecer a parceria registrada, em 1989, mas ela não era casamento. A lei holandesa de 2001 foi a primeira a abrir o próprio casamento a casais do mesmo sexo.",
+  "evidence": [
+   "Diz que os Países Baixos foram o primeiro país do mundo a implementar a igualdade no casamento, em 2001, e que à meia-noite de 1º de abril de 2001 o prefeito de Amsterdã, Job Cohen, celebrou o casamento de quatro casais do mesmo sexo.",
+   "Cita o Comissário dizendo que o primeiro país a oferecer parcerias registradas foi a Dinamarca, em 1989, e que os Países Baixos foram os primeiros a adotar o casamento entre pessoas do mesmo sexo, em 2001."
+  ]
+ },
+ "demo-h-04": {
+  "prompt": "A Declaração Universal dos Direitos Humanos, um marco que enuncia os direitos fundamentais de toda pessoa, foi adotada pela Assembleia Geral das Nações Unidas em que ano?",
+  "options": {
+   "a": "1945",
+   "b": "1955",
+   "c": "1962",
+   "d": "1948"
+  },
+  "explanation": "A Assembleia Geral da ONU adotou a Declaração Universal dos Direitos Humanos em Paris, em 10 de dezembro de 1948. A ONU a descreve como o documento que estabeleceu, pela primeira vez, direitos humanos fundamentais a serem protegidos universalmente.",
+  "context": "Um comitê de redação presidido por Eleanor Roosevelt reuniu membros de oito países. A Declaração não é juridicamente vinculante, mas inspirou muitos tratados de direitos humanos posteriores. O dia 10 de dezembro é celebrado todo ano como Dia dos Direitos Humanos.",
+  "evidence": [
+   "Afirma que a Assembleia Geral proclamou a Declaração em Paris em 10 de dezembro de 1948 (resolução 217 A), que ela estabelece pela primeira vez direitos humanos fundamentais a serem protegidos universalmente e que foi redigida por representantes de diferentes origens jurídicas e culturais.",
+   "Confirma a adoção em 10 de dezembro de 1948, em Paris, e que o comitê de redação, presidido por Eleanor Roosevelt, reuniu membros de oito Estados.",
+   "Afirma que o Dia dos Direitos Humanos é 10 de dezembro, marcando a adoção da DUDH em 1948, e que a DUDH não é um documento vinculante, mas inspirou mais de 60 instrumentos de direitos humanos."
+  ]
+ },
+ "demo-h-05": {
+  "prompt": "Quem se tornou o primeiro presidente da África do Sul eleito democraticamente, em 1994, após o fim do apartheid?",
+  "options": {
+   "a": "Desmond Tutu",
+   "b": "F. W. de Klerk",
+   "c": "Thabo Mbeki",
+   "d": "Nelson Mandela"
+  },
+  "explanation": "Após as primeiras eleições nacionais democráticas da África do Sul, em abril de 1994, a nova Assembleia Nacional elegeu Nelson Mandela presidente em 9 de maio de 1994, e ele tomou posse em 10 de maio, nos Union Buildings, em Pretória.",
+  "context": "Mandela passou 27 anos preso. Ele e o presidente que deixava o cargo, F. W. de Klerk, dividiram o Prêmio Nobel da Paz de 1993 por ajudarem a encerrar o apartheid de forma pacífica e a lançar as bases de uma nova África do Sul democrática.",
+  "evidence": [
+   "Afirma que a Assembleia Nacional elegeu Mandela presidente na segunda-feira, 9 de maio de 1994 (indicado por Albertina Sisulu, sem outras indicações), um dia antes de sua posse em Pretória, após a vitória do CNA nas primeiras eleições democráticas do país.",
+   "Afirma que Mandela tomou posse em 10 de maio de 1994 nos Union Buildings, após as primeiras eleições nacionais democráticas de abril de 1994, substituindo F. W. de Klerk na presidência, e que passou 27 anos na prisão.",
+   "Afirma que o Prêmio Nobel da Paz de 1993 foi concedido conjuntamente a Nelson Mandela e F. W. de Klerk por seu trabalho para encerrar o apartheid de forma pacífica e lançar as bases de uma nova África do Sul democrática."
+  ]
+ },
+ "demo-h-06": {
+  "prompt": "Um tratado histórico da ONU adotado em 2006, descrito pela ONU como o primeiro tratado abrangente de direitos humanos do século XXI, protege os direitos de qual grupo?",
+  "options": {
+   "a": "Trabalhadores migrantes",
+   "b": "Refugiados",
+   "c": "Povos indígenas",
+   "d": "Pessoas com deficiência"
+  },
+  "explanation": "A Convenção da ONU sobre os Direitos das Pessoas com Deficiência foi adotada em 13 de dezembro de 2006 e entrou em vigor em 3 de maio de 2008.",
+  "context": "A Convenção marca uma mudança: deixa de tratar as pessoas com deficiência como objetos de caridade, tratamento médico e proteção social e passa a reconhecê-las como pessoas com direitos, capazes de tomar decisões sobre a própria vida.",
+  "evidence": [
+   "Afirma que a Convenção foi adotada em 13 de dezembro de 2006, na sede da ONU, entrou em vigor em 3 de maio de 2008, é chamada de primeiro tratado abrangente de direitos humanos do século XXI e muda a visão das pessoas com deficiência de objetos de caridade e tratamento médico para sujeitos de direitos.",
+   "Confirma a adoção em 13 de dezembro de 2006, a entrada em vigor em 3 de maio de 2008 e a descrição como primeiro tratado abrangente de direitos humanos do século XXI."
+  ]
+ },
+ "demo-h-07": {
+  "prompt": "Em 13 de maio de 1888, o Brasil aboliu a escravidão com uma lei conhecida por qual nome?",
+  "options": {
+   "a": "Lei do Ventre Livre",
+   "b": "Lei Eusébio de Queirós",
+   "c": "Lei Áurea",
+   "d": "Lei dos Sexagenários"
+  },
+  "explanation": "A Lei Áurea (Lei nº 3.353) declarou extinta a escravidão no Brasil a partir de 13 de maio de 1888. Foi assinada pela princesa Isabel, que atuava como regente enquanto o imperador Pedro II estava no exterior. O Brasil foi o último país das Américas a acabar com a escravidão.",
+  "context": "Leis anteriores apenas enfraqueceram a escravidão: a Lei Eusébio de Queirós, de 1850, proibiu o tráfico de escravizados; a Lei do Ventre Livre, de 1871, libertou os filhos de mulheres escravizadas nascidos a partir daquele ano; e a Lei dos Sexagenários libertou os escravizados com mais de 60 anos. A Lei Áurea não deu aos libertos nenhuma indenização nem assistência do Estado.",
+  "evidence": [
+   "Reproduz a Lei nº 3.353, de 13 de maio de 1888, cujo primeiro artigo declara extinta a escravidão no Brasil a partir da data da lei, assinada pela Princesa Imperial Regente.",
+   "Descreve a Lei Eusébio de Queiroz de 1850, que proibiu o tráfico, a Lei do Ventre Livre de 1871 (filhos de mulheres escravizadas nascidos a partir daquele ano eram livres), uma lei que libertava os escravizados com mais de 60 anos e a Lei Áurea de 1888.",
+   "Diz que a Lei Áurea aboliu a escravidão em 13 de maio de 1888 e que a princesa Isabel a sancionou como regente, com o imperador Pedro II no exterior.",
+   "Afirma que o Brasil encerrou formalmente a escravidão em 13 de maio de 1888, sendo o último país das Américas a fazê-lo.",
+   "Complementar: diz que a lei não deu aos libertos indenização nem assistência estatal e que a princesa Isabel a assinou como regente em 13 de maio de 1888."
+  ]
+ },
+ "demo-r-01": {
+  "prompt": "A Arábia Saudita acabou com a proibição de mulheres dirigirem em junho de 2018.",
+  "explanation": "Verdadeiro. A proibição foi suspensa em 24 de junho de 2018, nove meses depois de a decisão ter sido anunciada por decreto real em setembro de 2017.",
+  "context": "Ativistas que defendiam o direito de dirigir foram presas nas semanas anteriores ao fim da proibição e, segundo relatos, ainda estavam na prisão quando ela entrou em vigor.",
+  "evidence": [
+   "Informa que a proibição foi suspensa no domingo, 24 de junho de 2018, após um decreto real de setembro de 2017, e que ativistas da campanha foram presas nas semanas anteriores.",
+   "Datada de 24 de junho de 2018; informa que as mulheres sauditas agora podem dirigir oficialmente, mudança anunciada em setembro anterior, e que a Arábia Saudita era o único país que impedia mulheres de dirigir."
+  ]
+ },
+ "demo-r-02": {
+  "prompt": "Em 2022, a Costa Rica gerou mais de 98% da sua eletricidade a partir de fontes renováveis.",
+  "explanation": "Verdadeiro. Dados do centro nacional de controle de eletricidade da Costa Rica mostraram que 99,25% da eletricidade veio de fontes renováveis em 2022 (de 1º de janeiro a 20 de dezembro), principalmente hidrelétrica, geotérmica e eólica.",
+  "context": "Isso vale só para eletricidade, não para todo o consumo de energia. Relatos indicaram que foi o oitavo ano seguido com mais de 98% de eletricidade renovável. A hidrelétrica respondeu por cerca de três quartos do total em 2022.",
+  "evidence": [
+   "Informa 99,25% de eletricidade renovável em 2022 (1º jan a 20 dez), com dados do CENCE/ICE: hidrelétrica 75,16%, geotérmica 12,97%, eólica 10,65%, biomassa e solar 0,47%; oitavo ano seguido acima de 98%.",
+   "Publicada em 22 de dezembro de 2022; afirma que a geração de eletricidade da Costa Rica superou 98% renovável pelo oitavo ano consecutivo."
+  ]
+ },
+ "demo-r-03": {
+  "prompt": "O buraco de ozônio na Antártida foi causado principalmente pelas emissões de dióxido de carbono.",
+  "explanation": "Falso. O buraco se forma por reações com cloro e bromo, que vêm principalmente dos CFCs, substâncias usadas em produtos como refrigerantes de geladeira e aerossóis. O dióxido de carbono provoca a mudança climática, um problema distinto.",
+  "context": "As nações assinaram o Protocolo de Montreal dois anos depois da descoberta do buraco, em 1985. Uma avaliação de 2023 apoiada pela ONU disse que a camada de ozônio deve voltar aos níveis de 1980 por volta de 2066 sobre a Antártida, se as políticas atuais continuarem.",
+  "evidence": [
+   "Afirma que reações químicas com cloro e bromo destroem o ozônio sobre a região polar sul na primavera do Hemisfério Sul.",
+   "Afirma que o cloro e o bromo que alimentam o buraco vêm principalmente dos CFCs, que o Protocolo de Montreal foi assinado dois anos após a descoberta de 1985 e que a recuperação total levará décadas.",
+   "Relata a avaliação da ONU de 2023: recuperação aos níveis de 1980 por volta de 2066 sobre a Antártida, 2045 sobre o Ártico e 2040 no restante, atribuída à eliminação de substâncias que destroem o ozônio sob o Protocolo de Montreal."
+  ]
+ },
+ "demo-r-04": {
+  "prompt": "As mulheres na Suíça podem votar em eleições nacionais desde 1920.",
+  "explanation": "Falso. As suíças conquistaram o direito de votar e de se candidatar em eleições nacionais após um referendo em 7 de fevereiro de 1971, no qual só homens podiam votar; cerca de 65,7% aprovaram.",
+  "context": "Os direitos nos cantões demoraram ainda mais: Appenzell Innerrhoden, o último cantão, só deu direitos políticos iguais às mulheres em 1990, depois de o Tribunal Federal decidir que excluí-las violava a Constituição. Lá, as mulheres votaram pela primeira vez em uma assembleia cantonal em abril de 1991.",
+  "evidence": [
+   "Afirma que em 7 de fevereiro de 1971 os homens suíços com direito a voto aprovaram o voto e a elegibilidade das mulheres em eleições nacionais, e que Appenzell Innerrhoden, o último cantão, concedeu direitos políticos iguais às mulheres em 1990.",
+   "Diz que 65,7% dos eleitores homens aprovaram o sufrágio feminino federal em 7 de fevereiro de 1971; a decisão do Tribunal Federal em 1990 sobre Appenzell Innerrhoden; e que lá as mulheres votaram pela primeira vez em 28 de abril de 1991."
+  ]
+ },
+ "demo-r-05": {
+  "prompt": "Em 2008, Ruanda se tornou o primeiro país do mundo cuja câmara baixa do parlamento tinha maioria de mulheres.",
+  "explanation": "Verdadeiro. Após a eleição de 2008, 45 das 80 cadeiras (56,3%) da Câmara de Deputados de Ruanda eram ocupadas por mulheres, o que a UIP descreveu como a primeira câmara única ou baixa da história com maioria feminina.",
+  "context": "Ruanda usa um sistema de cotas, e 24 das 80 cadeiras são, na prática, reservadas a mulheres. A base Parline da UIP lista hoje cerca de 64% de mulheres na câmara baixa. Números no parlamento sozinhos não medem a igualdade das mulheres na sociedade em geral.",
+  "evidence": [
+   "Relata que Ruanda liderou a lista mundial em 2008, com 56% das cadeiras da câmara baixa ocupadas por mulheres, e que um sistema de cotas reserva na prática 24 das 80 cadeiras.",
+   "Atualmente lista 63,75% dos membros da câmara baixa como mulheres."
+  ]
+ },
+ "demo-r-06": {
+  "prompt": "Jóhanna Sigurðardóttir, que se tornou a primeira mulher primeira-ministra da Islândia em 2009, casou-se com sua parceira em 2010.",
+  "explanation": "Verdadeiro. Sigurðardóttir tomou posse como primeira-ministra em 1º de fevereiro de 2009 e casou-se com Jónína Leósdóttir em 27 de junho de 2010, dia em que o casamento entre pessoas do mesmo sexo se tornou legal na Islândia.",
+  "context": "Ela foi amplamente apontada como a primeira chefe de governo abertamente gay do mundo. A Britannica observa que Per-Kristian Foss foi brevemente primeiro-ministro interino da Noruega em 2002, então o título de “primeira” não é indiscutível.",
+  "evidence": [
+   "Relata que Sigurdardottir assumiu como primeira-ministra da Islândia, a primeira mulher no cargo e a primeira líder nacional abertamente gay da era moderna.",
+   "Afirma que ela governou de 2009 a 2013, tomou posse em 1º de fevereiro de 2009 e em 27 de junho de 2010 casou-se com Jónína Leósdóttir no dia em que o casamento igualitário se tornou legal; registra a ressalva sobre Foss."
+  ]
+ },
+ "demo-r-07": {
+  "prompt": "O te reo māori nunca foi uma língua oficial da Nova Zelândia.",
+  "explanation": "Falso. A seção 3 da Lei da Língua Māori de 1987 declarou o māori língua oficial da Nova Zelândia, e a lei entrou em vigor em 1º de agosto de 1987.",
+  "context": "A lei também criou a Comissão da Língua Māori, rebatizada Te Taura Whiri i te Reo Māori em 1991. Ela seguiu uma conclusão do Tribunal de Waitangi, em 1985, de que o te reo é um taonga que a Coroa deve proteger. A lei de 1987 foi depois substituída pela Lei da Língua Māori de 2016.",
+  "evidence": [
+   "A seção 3 declara a língua māori língua oficial da Nova Zelândia; registra que a lei foi revogada em 30 de abril de 2016 pela Lei da Língua Māori de 2016.",
+   "Afirma que a lei entrou em vigor em 1º de agosto de 1987 tornando o te reo māori oficial, criou a Comissão da Língua Māori (renomeada em 1991), após conclusão do Tribunal de Waitangi de 1985 de que o te reo é um taonga."
+  ]
+ },
+ "demo-w-01": {
+  "prompt": "Quem sou eu?",
+  "clues": [
+   "Nasci em 1940 em Nyeri, no Quênia, e em 1971 obtive um doutorado na Universidade de Nairóbi.",
+   "Em 1977 fundei um movimento popular que incentivava as mulheres a plantar árvores.",
+   "Em 2004 me tornei a primeira mulher africana a receber o Prêmio Nobel da Paz."
+  ],
+  "options": {
+   "a": "Ellen Johnson Sirleaf",
+   "b": "Leymah Gbowee",
+   "c": "Wangari Maathai",
+   "d": "Graça Machel"
+  },
+  "explanation": "Wangari Maathai (1940–2011) fundou o Movimento Cinturão Verde, que une o plantio de árvores ao empoderamento das mulheres, à proteção ambiental e à democracia.",
+  "context": "A Britannica observa que ela foi, na prática, a primeira mulher da África Oriental ou Central a obter um doutorado. Após as eleições de 2002, ela foi vice-ministra do Meio Ambiente, Recursos Naturais e Vida Selvagem do Quênia.",
+  "evidence": [
+   "Nascida em 1940 em Nyeri, Quênia; doutorado pela Universidade de Nairóbi em 1971; Nobel da Paz de 2004; nomeada vice-ministra do Meio Ambiente, Recursos Naturais e Vida Selvagem após a eleição de dezembro de 2002.",
+   "Movimento Cinturão Verde fundado em 5 de junho de 1977; Maathai foi a primeira mulher africana a receber o Nobel da Paz (2004).",
+   "Nascida em 1º de abril de 1940 em Nyeri; doutorado em 1971, na prática a primeira mulher da África Oriental ou Central com doutorado; movimento fundado em 1977 e, no início do século XXI, havia plantado cerca de 30 milhões de árvores."
+  ]
+ },
+ "demo-w-02": {
+  "prompt": "Quem sou eu?",
+  "clues": [
+   "Sou uma organização que nasceu em Londres, em 1961.",
+   "Surgi de um apelo publicado em um jornal britânico por um advogado, convocando o público a agir em favor de pessoas presas por expressarem pacificamente suas crenças.",
+   "Em 1977 recebi o Prêmio Nobel da Paz."
+  ],
+  "options": {
+   "a": "A Cruz Vermelha",
+   "b": "Anistia Internacional",
+   "c": "Human Rights Watch",
+   "d": "Médicos Sem Fronteiras"
+  },
+  "explanation": "A Anistia Internacional nasceu do apelo “Os Prisioneiros Esquecidos”, de Peter Benenson, publicado no jornal The Observer em 1961, que popularizou o termo “prisioneiros de consciência”.",
+  "context": "O apelo levou à formação de grupos de cartas em vários países. Delegados de sete países se reuniram em julho de 1961 para criar um movimento internacional permanente, que adotou o nome Anistia Internacional no ano seguinte.",
+  "evidence": [
+   "Fundada em Londres em 28 de maio de 1961 por Peter Benenson, advogado britânico; recebeu o Nobel da Paz de 1977.",
+   "Em 1961, o advogado britânico Peter Benenson escreveu “The Forgotten Prisoners” para o Observer, lançando o Appeal for Amnesty; a Anistia recebeu o Nobel da Paz em 1977.",
+   "O artigo de Benenson saiu na primeira página do Observer em maio de 1961, pediu protestos em favor de pessoas presas por expressão pacífica e popularizou “prisioneiros de consciência”; delegados de sete países se reuniram em julho e o órgão passou a se chamar Anistia Internacional no ano seguinte."
+  ]
+ },
+ "demo-w-03": {
+  "prompt": "Quem sou eu?",
+  "clues": [
+   "Fui uma matemática que começou a trabalhar na NACA, agência que antecedeu a NASA, em 1953.",
+   "Antes de seu voo orbital de 1962, um astronauta pediu meu nome para conferir os cálculos de trajetória feitos pelo computador.",
+   "Um filme de 2016, Estrelas Além do Tempo, conta parte da minha história."
+  ],
+  "options": {
+   "a": "Dorothy Vaughan",
+   "b": "Mary Jackson",
+   "c": "Mae Jemison",
+   "d": "Katherine Johnson"
+  },
+  "explanation": "Os cálculos de Katherine Johnson apoiaram os primeiros voos espaciais tripulados dos EUA; John Glenn pediu que ela verificasse os números do computador antes de seu voo orbital Friendship 7, em 1962.",
+  "context": "Ela trabalhou na seção de computação West Area, só de mulheres negras, no centro de Langley, chefiada por Dorothy Vaughan. O presidente Barack Obama concedeu a ela a Medalha Presidencial da Liberdade em 2015.",
+  "evidence": [
+   "Contratada pela NACA em junho de 1953; trabalhou na seção West Area Computing, só de pessoas negras, chefiada por Dorothy Vaughan; Glenn pediu que ela conferisse os cálculos orbitais antes de voar; Medalha da Liberdade em 2015.",
+   "Glenn pediu que ela conferisse as trajetórias do computador eletrônico antes do voo Friendship 7, em 1962; Obama a condecorou com a Medalha Presidencial da Liberdade em 2015; Taraji P. Henson a interpretou no filme de 2016.",
+   "A Friendship 7 foi lançada em 20 de fevereiro de 1962; o pedido de Glenn veio pouco antes do lançamento, mas a data exata não é documentada."
+  ]
+ },
+ "demo-w-04": {
+  "prompt": "Quem sou eu?",
+  "clues": [
+   "Nasci em 1997 em Mingora, no Vale do Swat, no Paquistão.",
+   "Em 2012 fui baleada pelo Talibã quando voltava da escola, porque fazia campanha pela educação das meninas.",
+   "Em 2014, aos 17 anos, me tornei a pessoa mais jovem da história a receber o Prêmio Nobel da Paz."
+  ],
+  "options": {
+   "a": "Benazir Bhutto",
+   "b": "Malala Yousafzai",
+   "c": "Kailash Satyarthi",
+   "d": "Greta Thunberg"
+  },
+  "explanation": "Malala Yousafzai sobreviveu ao ataque, foi tratada na Inglaterra e se tornou uma defensora global da educação das meninas, cofundando o Fundo Malala com o pai.",
+  "context": "Ela dividiu o Nobel da Paz de 2014 com o indiano Kailash Satyarthi, premiados por seu trabalho pelos direitos das crianças.",
+  "evidence": [
+   "Nascida em 12 de julho de 1997 em Mingora, Vale do Swat; baleada pelo Talibã em 9 de outubro de 2012; a mais jovem laureada com o Nobel da Paz, aos 17 anos; dividiu o prêmio com Kailash Satyarthi; cofundou o Fundo Malala.",
+   "Nascida em Mingora, Swat, em 1997; baleada por um atirador do TTP em 9 de outubro de 2012 quando voltava da escola; tratada em Birmingham; dividiu o Nobel da Paz de 2014 e é a mais jovem laureada.",
+   "Nascida em Mingora, Vale do Swat; baleada no ônibus escolar em 9 de outubro de 2012; Nobel da Paz aos 17 anos; Fundo Malala criado em 2014 com o pai."
+  ]
+ },
+ "demo-w-05": {
+  "prompt": "Quem sou eu?",
+  "clues": [
+   "Nasci em 1944 em Xapuri, no estado brasileiro do Acre, e comecei a sangrar seringueiras ainda menino.",
+   "Organizei seringueiros para resistir ao desmatamento da floresta amazônica para a pecuária, usando bloqueios humanos não violentos.",
+   "Fui assassinado em 1988, e uma autarquia federal de biodiversidade criada em 2007 leva o meu nome."
+  ],
+  "options": {
+   "a": "Sebastião Salgado",
+   "b": "Paulo Freire",
+   "c": "Marina Silva",
+   "d": "Chico Mendes"
+  },
+  "explanation": "Chico Mendes liderou o sindicato dos seringueiros em Xapuri e se tornou símbolo da ligação entre a proteção da floresta e os direitos de quem vive dela.",
+  "context": "Seus bloqueios, chamados empates, usavam o próprio corpo das pessoas para impedir a derrubada das árvores. Ele foi morto a tiros na porta de casa em 22 de dezembro de 1988. O Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) foi criado pela Lei 11.516, de 28 de agosto de 2007.",
+  "evidence": [
+   "Nascido em 15 de dezembro de 1944 no Acre (cidade natal: Xapuri); sangrava seringueiras desde os onze anos; liderou o sindicato de Xapuri; usou o empate, bloqueio humano, contra o desmatamento para a pecuária; morto em 22 de dezembro de 1988.",
+   "Nascido em 1944 em Xapuri, Acre; usou bloqueios humanos (empates) contra o desmatamento; morto a tiros em frente de casa, em Xapuri, em dezembro de 1988.",
+   "A Lei 11.516, de 28/08/2007, cria o Instituto Chico Mendes de Conservação da Biodiversidade.",
+   "Nascido em 1944; começou a sangrar seringueiras ainda criança; morto em 22 de dezembro de 1988, em Xapuri, por um tiro disparado por um fazendeiro."
+  ]
+ },
+ "demo-w-06": {
+  "prompt": "Quem sou eu?",
+  "clues": [
+   "Sou uma mulher maia k’iche’ da Guatemala.",
+   "Meu irmão e minha mãe foram mortos pelas forças de segurança da Guatemala em 1979–1980, e em 1981 parti para o exílio no México.",
+   "Em 1992 recebi o Prêmio Nobel da Paz por meu trabalho pelos direitos dos povos indígenas."
+  ],
+  "options": {
+   "a": "Berta Cáceres",
+   "b": "Frida Kahlo",
+   "c": "Rigoberta Menchú",
+   "d": "Violeta Chamorro"
+  },
+  "explanation": "Rigoberta Menchú Tum, nascida em 1959, tornou-se uma defensora internacional dos direitos indígenas e da reconciliação etnocultural, e usou o dinheiro do Nobel para fundar uma organização em defesa dos povos indígenas.",
+  "context": "Sua autobiografia tornou-se um relato influente das atrocidades do exército na guerra civil guatemalteca. Após uma crítica de 1999 a trechos do livro, o Comitê Nobel disse que o prêmio não se baseava principalmente na obra e não o revogou.",
+  "evidence": [
+   "Nascida em 9 de janeiro de 1959 em uma família camponesa maia (quiché); familiares mortos pelas forças de segurança em 1979–1980; exílio no México em 1981; Nobel da Paz de 1992 por sua defesa dos direitos indígenas; o Comitê rejeitou pedidos de revogação após a crítica de 1999 ao livro.",
+   "Ativista maia quiché (k’iche’) da Guatemala; Nobel da Paz de 1992; irmão morto por um esquadrão da morte militar em 1979, mãe assassinada em 1980; fugiu para o México em 1981; fundou uma organização de defesa indígena com o dinheiro do prêmio."
+  ]
+ },
+ "demo-w-07": {
+  "prompt": "Quem sou eu?",
+  "clues": [
+   "Fui um matemático britânico que trabalhou em Bletchley Park, durante a Segunda Guerra Mundial, na quebra de mensagens alemãs da Enigma.",
+   "Em 1950 publiquei um artigo propondo um “jogo da imitação” para perguntar se máquinas podem pensar, ideia hoje muitas vezes associada ao meu nome.",
+   "Fui condenado em 1952 por atos homossexuais, então ilegais, e recebi um perdão real em 2013."
+  ],
+  "options": {
+   "a": "Charles Babbage",
+   "b": "Alan Turing",
+   "c": "Tim Berners-Lee",
+   "d": "John von Neumann"
+  },
+  "explanation": "Alan Turing foi um dos fundadores da ciência da computação e da inteligência artificial, e seu trabalho na guerra foi central para quebrar o código da Enigma.",
+  "context": "Após a condenação de 1952, ele perdeu a autorização de segurança e foi obrigado a fazer tratamento hormonal; morreu em 1954. O perdão do governo britânico entrou em vigor em 24 de dezembro de 2013.",
+  "evidence": [
+   "Trabalhou em Bletchley Park e foi central para quebrar a Enigma; condenado em 1952 por atividade homossexual, então ilegal; perdão concedido em 24 de dezembro de 2013; perdeu a autorização de segurança.",
+   "Condenado por “indecência grave” em 1952; obrigado a tomar estrogênio; morreu em 1954; a rainha Elizabeth II concedeu perdão póstumo em dezembro de 2013.",
+   "Cópia do artigo de Turing na revista Mind, vol. LIX, nº 236, outubro de 1950, que apresenta o “jogo da imitação”."
+  ]
+ }
+}

@@ -1,0 +1,107 @@
+@import "tailwindcss";
+@import "@fontsource-variable/fraunces";
+@import "@fontsource-variable/inter";
+
+/*
+  WOKLE visual language: "modern editorial".
+  Warm paper, near-black ink, one confident purple. Serif headlines (Fraunces)
+  against a clean sans (Inter). Colours are CSS variables so dark mode is a
+  single override block.
+*/
+:root {
+  --paper: #f7f4ee;
+  --card: #fffdf9;
+  --ink: #17131f;
+  --mute: #6a6477;
+  --line: #e3ddd1;
+  --accent: #6d28d9;
+  --accent-ink: #ffffff;
+  --accent-soft: #ece5fb;
+  --good: #176b43;
+  --good-soft: #dff1e6;
+  --bad: #a8261d;
+  --bad-soft: #f8e1de;
+  --warn: #8a5a00;
+  --warn-soft: #fbefcf;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #131018;
+    --card: #1c1824;
+    --ink: #f3eff8;
+    --mute: #a49cb4;
+    --line: #2f2a3b;
+    --accent: #a78bfa;
+    --accent-ink: #15101f;
+    --accent-soft: #2a2145;
+    --good: #6ee7a8;
+    --good-soft: #14301f;
+    --bad: #ff9a90;
+    --bad-soft: #3a1a18;
+    --warn: #f5c76b;
+    --warn-soft: #33270c;
+  }
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-mute: var(--mute);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --font-display: "Fraunces Variable", ui-serif, Georgia, "Times New Roman", serif;
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html {
+  background: var(--paper);
+  color-scheme: light dark;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.font-display {
+  font-family: var(--font-display);
+  font-variation-settings: "opsz" 144, "SOFT" 30;
+}
+
+/* Subtle entrance animation for cards and feedback */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.rise { animation: rise 0.35s ease-out both; }
+
+@keyframes pop {
+  0% { transform: scale(0.96); }
+  60% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+.pop { animation: pop 0.3s ease-out both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .rise, .pop { animation: none; }
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
