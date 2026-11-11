@@ -944,5 +944,269 @@
       "Confirma que a Suprema Corte decidiu Lawrence v. Texas em 26 de junho de 2003, derrubando a lei de sodomia do Texas e anulando Bowers v. Hardwick.",
       "Confirma que a Suprema Corte da Índia considerou a Seção 377 inconstitucional para a conduta consensual entre pessoas do mesmo sexo em 6 de setembro de 2018."
     ]
+  },
+  "demo-h-13": {
+    "prompt": "Em setembro de 2007, a Assembleia Geral da ONU adotou a Declaração sobre os Direitos dos Povos Indígenas. Qual destes países foi um dos quatro que votaram contra?",
+    "options": {
+      "a": "Brasil",
+      "b": "México",
+      "c": "Austrália",
+      "d": "Noruega"
+    },
+    "explanation": "A Austrália foi um dos quatro países, junto com Canadá, Nova Zelândia e Estados Unidos, que votaram contra a Declaração quando a Assembleia Geral a adotou em 13 de setembro de 2007, com bem mais de 140 Estados a favor e 11 abstenções.",
+    "context": "A Declaração não é juridicamente vinculante, mas estabelece padrões mínimos para os direitos dos povos indígenas, como autodeterminação, cultura e terras. Os quatro países que votaram contra mudaram depois de posição e passaram a apoiá-la.",
+    "evidence": [
+      "Afirma que a Assembleia Geral adotou a Declaração em 13 de setembro de 2007, que Austrália, Canadá, Nova Zelândia e Estados Unidos votaram contra e que os quatro depois mudaram de posição.",
+      "Confirma a adoção em 13 de setembro de 2007, com 4 votos contra e 11 abstenções, e nomeia Austrália, Canadá, Nova Zelândia e Estados Unidos como os quatro Estados que votaram contra."
+    ]
+  },
+  "demo-h-14": {
+    "prompt": "O Dia Internacional para a Eliminação da Discriminação Racial, lembrado pela ONU em 21 de março, recorda um massacre de 1960 de manifestantes antiapartheid em qual distrito sul-africano?",
+    "options": {
+      "a": "Soweto",
+      "b": "Sharpeville",
+      "c": "Langa",
+      "d": "Bisho"
+    },
+    "explanation": "Em 21 de março de 1960, a polícia abriu fogo contra um protesto pacífico contra as leis de passe do apartheid em Sharpeville e matou 69 pessoas; a Assembleia Geral da ONU escolheu depois essa data para o dia anual contra a discriminação racial.",
+    "context": "A Assembleia Geral criou a data em 1966 (resolução 2142 (XXI)).",
+    "evidence": [
+      "Afirma que o dia lembra o massacre de Sharpeville, em 21 de março de 1960, quando a polícia atirou contra um protesto pacífico contra as leis de passe e matou 69 pessoas, e cita a resolução 2142 (XXI) da Assembleia Geral.",
+      "Confirma que a Assembleia Geral fixou o dia 21 de março em 1966 para homenagear os fatos de Sharpeville, na África do Sul, onde a polícia matou 69 pessoas que protestavam contra as leis de passe do apartheid."
+    ]
+  },
+  "demo-h-15": {
+    "prompt": "Em outubro de 2013, países adotaram em Kumamoto, no Japão, um tratado global sobre o mercúrio. Qual cidade japonesa, marcada por um desastre de poluição industrial, deu nome ao tratado?",
+    "options": {
+      "a": "Minamata",
+      "b": "Yokkaichi",
+      "c": "Nagasaki",
+      "d": "Hiroshima"
+    },
+    "explanation": "A Convenção de Minamata sobre Mercúrio foi adotada e aberta para assinatura em uma conferência diplomática em Kumamoto, em 10 e 11 de outubro de 2013; o nome expressa o desejo de que o desastre de saúde e ambiental da doença de Minamata nunca se repita.",
+    "context": "O tratado regula o mercúrio em todo o seu ciclo de vida, incluindo o fim da mineração primária e a eliminação gradual em alguns produtos e processos industriais. Entrou em vigor em 16 de agosto de 2017, após a 50ª ratificação.",
+    "evidence": [
+      "Diz que o tratado recebeu esse nome para expressar o desejo de que o desastre de saúde e ambiental de Minamata não se repita e que foi adotado na Conferência Diplomática de outubro de 2013 em Kumamoto e Minamata.",
+      "Confirma que o texto foi adotado e aberto para assinatura em Kumamoto, no Japão, em 10 e 11 de outubro de 2013, e entrou em vigor em 16 de agosto de 2017."
+    ]
+  },
+  "demo-h-16": {
+    "prompt": "O Dia Internacional da Alfabetização, lembrado em 8 de setembro, tem origem em um Congresso Mundial de Ministros da Educação sobre a Erradicação do Analfabetismo, da UNESCO, em 1965. Em qual cidade ele foi realizado?",
+    "options": {
+      "a": "Cairo",
+      "b": "Paris",
+      "c": "Nova Délhi",
+      "d": "Teerã"
+    },
+    "explanation": "O Congresso Mundial de Ministros da Educação sobre a Erradicação do Analfabetismo, da UNESCO, reuniu-se em Teerã, no Irã, de 8 a 19 de setembro de 1965, com representantes de 88 países, e o dia 8 de setembro virou o Dia Internacional da Alfabetização.",
+    "context": "O congresso pediu que programas de alfabetização fossem incluídos nos planos de desenvolvimento econômico e social e ajudou a lançar o Programa Experimental Mundial de Alfabetização da UNESCO. A UNESCO proclamou a data em 1966 e ela foi celebrada pela primeira vez em 1967.",
+    "evidence": [
+      "Registra que o Congresso Mundial de Ministros da Educação sobre a Erradicação do Analfabetismo foi realizado em Teerã, de 8 a 19 de setembro de 1965, com delegados de 88 países, e que 8 de setembro virou o Dia Internacional da Alfabetização.",
+      "A proclamação presidencial americana de 1966 diz que o Congresso Mundial de Ministros da Educação se reuniu em Teerã, no Irã, um ano antes de 8 de setembro de 1966, chamando-o de ponto de virada na luta contra o analfabetismo."
+    ]
+  },
+  "demo-h-17": {
+    "prompt": "O Dia Mundial do Braille, lembrado pela ONU em 4 de janeiro, homenageia Louis Braille, que ficou cego em um acidente na infância. Com que idade ele criou o sistema tátil de leitura e escrita que leva seu nome?",
+    "options": {
+      "a": "12",
+      "b": "13",
+      "c": "15",
+      "d": "18"
+    },
+    "explanation": "A ONU afirma que, aos 15 anos, Louis Braille criou o sistema que leva seu nome, depois de perder a visão ainda criança.",
+    "context": "Braille nasceu em 4 de janeiro de 1809 em Coupvray, na França, e ficou cego em um acidente aos três anos. A Assembleia Geral da ONU adotou uma resolução criando o Dia Mundial do Braille em 17 de dezembro de 2018, e a primeira celebração oficial foi em 2019. As fontes divergem sobre quando ele começou a aperfeiçoar o sistema, no qual trabalhou desde cerca de 12 anos.",
+    "evidence": [
+      "Afirma que, aos 15 anos, Louis Braille criou o sistema que leva seu nome, que 4 de janeiro é seu aniversário e que ele nasceu em 1809, e que a primeira celebração oficial da ONU foi em 2019.",
+      "Diz que Braille começou a aperfeiçoar o sistema por volta dos 12 anos e o havia concluído aos 15, e informa que ele nasceu em 4 de janeiro de 1809.",
+      "Informa o nascimento de Braille em 4 de janeiro de 1809, em Coupvray, e que ele ficou cego em um acidente aos três anos."
+    ]
+  },
+  "demo-h-18": {
+    "prompt": "Em 1903, quem se tornou a primeira mulher a ganhar um Prêmio Nobel, dividindo o Nobel de Física por pesquisas sobre os fenômenos da radiação?",
+    "options": {
+      "a": "Marie Curie",
+      "b": "Lise Meitner",
+      "c": "Irène Joliot-Curie",
+      "d": "Bertha von Suttner"
+    },
+    "explanation": "Marie Curie recebeu o Nobel de Física de 1903, dividido com Pierre Curie e Henri Becquerel por seus trabalhos sobre os fenômenos da radiação, e foi a primeira mulher a receber um Prêmio Nobel.",
+    "context": "Nascida em Varsóvia, Curie também ganhou o Nobel de Química de 1911 e foi a primeira pessoa a receber dois Prêmios Nobel.",
+    "evidence": [
+      "Lista Marie Curie como laureada com o Nobel de Física de 1903 por pesquisas conjuntas sobre a radiação, nascida em Varsóvia em 1867, e a primeira pessoa a receber dois Prêmios Nobel.",
+      "Afirma que Marie Curie foi a primeira mulher a receber um Nobel, em Física, em 1903, dividido com Pierre Curie e Henri Becquerel."
+    ]
+  },
+  "demo-r-13": {
+    "prompt": "Gana conquistou a independência do Reino Unido em 6 de março de 1957.",
+    "options": {
+      "real": "Real",
+      "fake": "Falso"
+    },
+    "explanation": "Verdadeiro. A Costa do Ouro tornou-se a nação independente de Gana em 6 de março de 1957, tendo Kwame Nkrumah como primeiro-ministro.",
+    "context": "A independência de Gana foi um marco inicial da onda de descolonização na África, e Nkrumah tornou-se um defensor destacado da unidade africana.",
+    "evidence": [
+      "Reproduz a reportagem do Monitor de 6 de março de 1957 sobre a antiga Costa do Ouro tornando-se a Gana independente, sob o primeiro-ministro Kwame Nkrumah.",
+      "Informa que a Costa do Ouro se tornou independente como Gana em 6 de março de 1957, do Reino Unido, sob a liderança de Kwame Nkrumah."
+    ]
+  },
+  "demo-r-15": {
+    "prompt": "A Constituição do Butão exige que pelo menos 60% do território do país permaneça coberto por floresta.",
+    "options": {
+      "real": "Real",
+      "fake": "Falso"
+    },
+    "explanation": "Verdadeiro. O Artigo 5 da Constituição do Butão obriga o governo a manter no mínimo 60% da área total do país sob cobertura florestal para sempre.",
+    "context": "O Butão é frequentemente citado como um caso incomum de meta ambiental quantitativa inscrita diretamente na constituição de um país.",
+    "evidence": [
+      "Informa que a Constituição (Artigo 5) exige que no mínimo 60% da área total do Butão seja mantida sob cobertura florestal para sempre.",
+      "Capítulo acadêmico que registra que a constituição exige pelo menos 60% do território sob cobertura florestal para sempre."
+    ]
+  },
+  "demo-r-16": {
+    "prompt": "A Lei do Direito à Educação da Índia garante educação gratuita e obrigatória a todas as crianças até os 18 anos.",
+    "options": {
+      "real": "Real",
+      "fake": "Falso"
+    },
+    "explanation": "Falso. A lei abrange crianças de seis a quatorze anos. Entrou em vigor em 1º de abril de 2010, junto com o Artigo 21-A da Constituição, que tornou a educação gratuita para essa faixa etária um direito fundamental.",
+    "context": "O Artigo 21-A foi inserido pela 86ª Emenda à Constituição, de 2002; a lei de 2009 definiu como o direito seria posto em prática.",
+    "evidence": [
+      "Informa que a lei abrange crianças de seis a quatorze anos e que ela e o Artigo 21-A entraram em vigor em 1º de abril de 2010.",
+      "Relata que a lei, em vigor desde 1º de abril de 2010, se aplica a crianças entre seis e 14 anos."
+    ]
+  },
+  "demo-r-18": {
+    "prompt": "O Tratado de Marrakech, que amplia o acesso a livros para pessoas cegas e com deficiência de leitura, foi adotado em Genebra em 2013.",
+    "options": {
+      "real": "Real",
+      "fake": "Falso"
+    },
+    "explanation": "Falso. O Tratado foi adotado em Marrakech, no Marrocos, em 27 de junho de 2013, pelos Estados-membros da Organização Mundial da Propriedade Intelectual (OMPI).",
+    "context": "O tratado exige exceções de direitos autorais para que cópias em formatos acessíveis possam ser feitas e compartilhadas entre países.",
+    "evidence": [
+      "Informa que o tratado foi adotado em 27 de junho de 2013 em Marrakech e estabelece limitações de direitos autorais para pessoas cegas, com baixa visão e com deficiência de leitura.",
+      "Relata que os Estados-membros da OMPI adotaram o tratado em Marrakech, no Marrocos, em 27 de junho de 2013."
+    ]
+  },
+  "demo-w-13": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em São Paulo em 1894 e estudei biologia na Sorbonne, na França.",
+      "Presidi até 1942 a Federação Brasileira pelo Progresso Feminino, que lutou pelo voto das mulheres; a Constituição de 1934 garantiu esse voto.",
+      "Assumi em 1936, como suplente, uma cadeira na Câmara dos Deputados, e em 2001 o Senado criou um diploma anual de direitos das mulheres que leva o meu nome."
+    ],
+    "options": {
+      "a": "Nísia Floresta",
+      "b": "Bertha Lutz",
+      "c": "Carlota Pereira de Queirós",
+      "d": "Maria Quitéria"
+    },
+    "explanation": "Bertha Lutz (1894–1976) foi a principal líder do movimento sufragista brasileiro e uma cientista que atuou em botânica e herpetologia.",
+    "context": "Seu grupo se tornou a Federação Brasileira pelo Progresso Feminino em 1922. Ela participou da conferência do Ano Internacional da Mulher na Cidade do México, em 1975, e morreu no Rio de Janeiro em 1976. O Diploma Bertha Lutz, do Senado, homenageia quem se destaca na defesa dos direitos das mulheres.",
+    "evidence": [
+      "Nascida em São Paulo em 1894; formada em Biologia na Sorbonne; trabalhou no Museu Nacional; o Senado criou o Diploma Bertha Lutz em 2001; morreu em 1976 no Rio de Janeiro.",
+      "Principal líder do movimento sufragista brasileiro; licenciada em ciências pela Sorbonne em 1918; presidiu a Federação Brasileira pelo Progresso Feminino até 1942; voto feminino garantido pela Constituição de 1934; deputada suplente no fim de 1936; conferência da Cidade do México em 1975."
+    ]
+  },
+  "demo-w-14": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1947 em Hamadã, no noroeste do Irã, e me formei em direito na Universidade de Teerã.",
+      "Tornei-me juíza em 1969 e, em 1975, presidi uma câmara do Tribunal Municipal de Teerã, mas após a revolução de 1979 fui afastada e passei a funções administrativas.",
+      "Em 2003 me tornei a primeira mulher muçulmana a receber o Prêmio Nobel da Paz, por meu trabalho pelos direitos de mulheres, crianças e presos políticos."
+    ],
+    "options": {
+      "a": "Tawakkol Karman",
+      "b": "Asma Jahangir",
+      "c": "Shirin Ebadi",
+      "d": "Benazir Bhutto"
+    },
+    "explanation": "Shirin Ebadi, advogada iraniana e ex-juíza, recebeu o Nobel da Paz de 2003 por seu trabalho em direitos humanos, sobretudo de mulheres, crianças e presos políticos.",
+    "context": "Depois de ser afastada, ela só pôde advogar novamente ao obter a licença em 1992. Cofundou em 1995 a Associação de Apoio aos Direitos da Criança e propôs a lei contra a violência infantil ratificada em 2002.",
+    "evidence": [
+      "Nascida em 1947 em Hamadã; formada em direito pela Universidade de Teerã; juíza desde março de 1969; presidente da 24ª câmara do Tribunal Municipal de Teerã em 1975; afastada após a revolução de 1979 e designada a funções administrativas; licença de advogada em 1992; cofundou a Associação de Apoio aos Direitos da Criança em 1995; Prêmio Nobel da Paz em 2003.",
+      "Ganhou o Nobel da Paz de 2003 por seu trabalho em direitos humanos, especialmente os direitos de mulheres, crianças e presos políticos no Irã; primeira mulher muçulmana a recebê-lo; afastada do cargo de juíza após a revolução de 1979."
+    ]
+  },
+  "demo-w-15": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Sou uma coalizão de organizações não governamentais com parceiros em mais de 100 países.",
+      "Fui lançada em 2007, começando na Austrália, para fazer campanha contra uma categoria de armas de destruição em massa.",
+      "Em 2017 ganhei o Prêmio Nobel da Paz por meus esforços por um tratado que proíbe as armas nucleares, adotado na ONU em 7 de julho daquele ano."
+    ],
+    "options": {
+      "a": "Conferências Pugwash sobre Ciência e Assuntos Mundiais",
+      "b": "Médicos Internacionais para a Prevenção da Guerra Nuclear",
+      "c": "Greenpeace",
+      "d": "Campanha Internacional para a Abolição das Armas Nucleares (ICAN)"
+    },
+    "explanation": "A Campanha Internacional para a Abolição das Armas Nucleares (ICAN) recebeu o Nobel da Paz de 2017 por chamar atenção para as consequências humanitárias catastróficas de qualquer uso de armas nucleares e por seus esforços pioneiros por uma proibição baseada em tratado.",
+    "context": "O Tratado de Proibição de Armas Nucleares foi adotado em Nova York em 7 de julho de 2017, com o apoio de 122 países. Beatrice Fihn e Setsuko Thurlow, sobrevivente do bombardeio de Hiroshima, fizeram a palestra do Nobel da ICAN em Oslo.",
+    "evidence": [
+      "A ICAN foi fundada em 2007; o Tratado de Proibição de Armas Nucleares foi adotado por 122 Estados-membros da ONU em 7 de julho de 2017; motivação do prêmio: seu trabalho sobre as consequências humanitárias e por uma proibição baseada em tratado.",
+      "Fundada em 2007 na Austrália; organizações parceiras em mais de 100 países; Prêmio Nobel da Paz de 2017.",
+      "Descreve-se como uma coalizão de ONGs em cem países; Prêmio Nobel da Paz entregue em Oslo em 10 de dezembro de 2017; Beatrice Fihn e Setsuko Thurlow fizeram a palestra do Nobel."
+    ]
+  },
+  "demo-w-16": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em Tuscumbia, no Alabama, em 1880, e uma doença aos 19 meses me deixou cega e surda.",
+      "Minha professora Anne Sullivan chegou em 1887 e, em 1904, tornei-me a primeira pessoa surdocega a obter um bacharelado, pela Radcliffe College.",
+      "Escrevi A História da Minha Vida, trabalhei com a Fundação Americana para os Cegos a partir de 1924 e recebi a Medalha Presidencial da Liberdade em 1964."
+    ],
+    "options": {
+      "a": "Helen Keller",
+      "b": "Laura Bridgman",
+      "c": "Louis Braille",
+      "d": "Anne Sullivan"
+    },
+    "explanation": "Helen Keller (1880–1968) tornou-se uma autora, conferencista e defensora das pessoas com deficiência conhecida no mundo todo.",
+    "context": "Segundo a Britannica, suas palestras ajudaram a criar comissões para cegos em 30 estados dos EUA até 1937, e ela cofundou a American Civil Liberties Union em 1920.",
+    "evidence": [
+      "Nascida em 27 de junho de 1880 em Tuscumbia; Anne Sullivan chegou em 3 de março de 1887; formou-se em Radcliffe em 28 de junho de 1904, primeira pessoa surdocega a obter um bacharelado; trabalhou com a AFB desde outubro de 1924; Medalha Presidencial da Liberdade em setembro de 1964; escreveu A História da Minha Vida (1903).",
+      "Ficou cega e surda aos 19 meses por causa de uma doença; Sullivan a ensinou a partir de março de 1887; formou-se cum laude em Radcliffe em 1904; fez palestras pela AFB; comissões para cegos em 30 estados até 1937; cofundou a ACLU em 1920."
+    ]
+  },
+  "demo-w-17": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Sou cientista da computação e poeta do código, e estudei em Oxford como bolsista Rhodes e no MIT.",
+      "Chamo de \"olhar codificado\" o modo como a IA pode ignorar alguns rostos, e minha pesquisa encontrou viés em serviços comerciais de IA de empresas como IBM, Microsoft e Amazon.",
+      "Fundei a Algorithmic Justice League em 2016 e liderei o estudo Gender Shades, de 2018, sobre análise facial, que começou como minha dissertação de mestrado no MIT."
+    ],
+    "options": {
+      "a": "Cathy O'Neil",
+      "b": "Joy Buolamwini",
+      "c": "Safiya Noble",
+      "d": "Fei-Fei Li"
+    },
+    "explanation": "Joy Buolamwini é pesquisadora do MIT Media Lab, fundou a Algorithmic Justice League e liderou o projeto Gender Shades sobre viés na análise facial.",
+    "context": "O Gender Shades testou produtos de classificação de gênero de IBM, Microsoft e Face++ e depois foi estendido à Amazon. A Algorithmic Justice League informa que a IBM deixou de oferecer software de reconhecimento facial e que a Microsoft planejava aposentar a classificação de gênero por rosto. O trabalho também inspirou o documentário Coded Bias.",
+    "evidence": [
+      "O Gender Shades foi liderado por Joy Buolamwini com Timnit Gebru (artigo de 2018); começou em 2016 como sua dissertação de mestrado no MIT; mostrou viés na classificação de gênero de IBM, Microsoft e Face++, com a Amazon em trabalho posterior; inspirou o documentário Coded Bias.",
+      "Pesquisadora do MIT Media Lab; fundadora da Algorithmic Justice League (2016); bolsista Rhodes com mestrado em Oxford e outro no MIT; chama o viés algorítmico de \"olhar codificado\"; encontrou viés racial e de gênero em serviços de IA da Microsoft, IBM e Amazon; descreve-se como poeta do código."
+    ]
+  },
+  "demo-w-18": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1914, numa família pobre, em Franca, no estado de São Paulo.",
+      "Em 1944 fundei o Teatro Experimental do Negro, no Rio de Janeiro, depois de ver um papel de personagem negro interpretado por um ator branco pintado de preto, e mais tarde publiquei o jornal Quilombo.",
+      "Como deputado federal e depois senador pelo Rio de Janeiro, propus cotas raciais, que eu preferia chamar de ação compensatória."
+    ],
+    "options": {
+      "a": "Milton Santos",
+      "b": "Lélia Gonzalez",
+      "c": "Abdias Nascimento",
+      "d": "Luiz Gama"
+    },
+    "explanation": "Abdias Nascimento (1914–2011) foi artista, ativista e político afro-brasileiro que usou o teatro e a atividade legislativa para combater o racismo.",
+    "context": "Foi deputado federal nos anos 1980 e assumiu uma cadeira no Senado pelo Rio de Janeiro em 1991, em definitivo em 1997. Em 2004 foi reconhecido pela Presidência como grande figura política brasileira na luta pelos direitos dos negros. Morreu no Rio de Janeiro em 23 de maio de 2011.",
+    "evidence": [
+      "Nascido em 1914 em Franca (SP); fundou o Teatro Experimental do Negro em 1944, no Rio de Janeiro, após ver um papel de negro interpretado em blackface; publicou o jornal Quilombo; deputado federal a partir de 1983; senador desde 1991 (em definitivo em 1997); propôs cotas raciais, preferindo o termo ação compensatória; morreu em 23 de maio de 2011.",
+      "Nascido em 14 de março de 1914 no estado de São Paulo; fundou o grupo teatral em 1944 no Rio; exilou-se voluntariamente após o golpe de 1964; parlamentar nos anos 1980; senador; reconhecido em 2004 como a maior figura política brasileira na luta pelos direitos dos negros."
+    ]
   }
 }
