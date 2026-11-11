@@ -56,6 +56,11 @@ export interface Challenge {
   /** Entities featured (people, organisations), used to avoid repetition. */
   entities: string[];
   verification: VerificationStatus;
+  /**
+   * First day (YYYY-MM-DD) this challenge may be picked. Questions added later
+   * get tomorrow's date, so days already played (and the archive) never change.
+   */
+  availableFrom?: string;
   sources: Source[];
   /** Phase 1 content is hand-written and labelled as demo. */
   isDemo: boolean;
