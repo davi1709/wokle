@@ -1,12 +1,12 @@
 # WOKLE
 
 Daily educational puzzle about social awareness, history and human rights.
-Three challenges a day: **Complete the Headline**, **Real or Fake?**, **Who Am I?**
+Five challenges a day (500 points): **Complete the Headline**, **Real or Fake?**, **Who Am I?**, **Which Right Is at Stake?** and **Put It in Order** (timeline)
 English + Brazilian Portuguese, with an archive of past days.
 
 > Status: **Phase 1 (playable MVP) is done.** The automated content pipeline,
 > admin dashboard and accounts (Phases 2 to 5) are NOT implemented yet.
-> The pool has 21 questions (7 per type), so each type repeats every 7 days. Add
+> The pool has 49 questions (11 headline, 10 real/fake, 12 who am I, 8 rights, 8 timeline), so each type repeats every 8 to 12 days. Add
 > more before expecting daily players (see "Adding questions").
 
 ## Run it
@@ -23,7 +23,7 @@ No credentials needed.
 ## Check it
 
 ```bash
-npm test             # 47 unit tests
+npm test             # unit tests
 npm run typecheck
 npm run build        # production build
 npm run check-links  # does every source URL still open? (needs internet)
