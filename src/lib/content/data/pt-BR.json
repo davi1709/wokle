@@ -1,0 +1,948 @@
+{
+  "demo-h-01": {
+    "prompt": "Em 1893, qual país autogovernado foi o primeiro do mundo a dar às mulheres o direito de voto em eleições parlamentares nacionais?",
+    "options": {
+      "a": "Estados Unidos",
+      "b": "Nova Zelândia",
+      "c": "Reino Unido",
+      "d": "França"
+    },
+    "explanation": "A Lei Eleitoral da Nova Zelândia, sancionada em 19 de setembro de 1893, tornou as mulheres com 21 anos ou mais aptas a votar em eleições parlamentares, e mais de 100 mil mulheres se alistaram em menos de dois meses.",
+    "context": "As mulheres só puderam se candidatar ao Parlamento em 1919, e a lei de 1893 incluiu as mulheres maori nas mesmas condições das demais, embora alguns grupos, como as mulheres chinesas, tenham sido excluídos. Alguns lugares já haviam dado o voto apenas a parte das mulheres (Ilha Pitcairn em 1838, Ilha de Man em 1881), por isso historiadores dizem que a Nova Zelândia foi o primeiro país autogovernado a fazê-lo para as mulheres em geral.",
+    "evidence": [
+      "Afirma que a Lei Eleitoral foi aprovada em 8 de setembro de 1893 e sancionada por Lord Glasgow em 19 de setembro, tornou aptas a votar as mulheres com 21 anos ou mais que fossem súditas britânicas, estendeu o voto às mulheres maori nas mesmas condições, excluiu alguns grupos, como as mulheres chinesas, e que as mulheres puderam se candidatar ao Parlamento em 1919.",
+      "Afirma que a Nova Zelândia foi o primeiro país autogovernado do mundo a consagrar em lei o direito das mulheres de votar em eleições parlamentares, que a lei foi assinada em 19 de setembro de 1893 e que 109.461 mulheres se alistaram menos de dois meses depois.",
+      "Diz que a Nova Zelândia pode justamente reivindicar ser o primeiro país autogovernado a conceder o voto a todas as mulheres adultas e lista concessões parciais anteriores, como a Ilha Pitcairn (1838) e a Ilha de Man (1881, mulheres proprietárias)."
+    ]
+  },
+  "demo-h-02": {
+    "prompt": "O Acordo de Paris, de 2015, tem como meta manter o aquecimento global bem abaixo de qual nível, em relação à era pré-industrial?",
+    "options": {
+      "a": "1 °C",
+      "b": "3 °C",
+      "c": "2 °C",
+      "d": "4 °C"
+    },
+    "explanation": "O Artigo 2 do Acordo de Paris tem como objetivo manter o aumento da temperatura média global bem abaixo de 2 °C acima dos níveis pré-industriais, buscando ao mesmo tempo limitá-lo a 1,5 °C.",
+    "context": "O acordo foi adotado em Paris em 12 de dezembro de 2015 pelas 196 partes da convenção climática da ONU. Cada país define seu próprio plano climático nacional (chamado de contribuição nacionalmente determinada), e cada parte deve apresentar um novo a cada cinco anos.",
+    "evidence": [
+      "O Artigo 2(1)(a) define a meta de manter o aumento da temperatura bem abaixo de 2 °C acima dos níveis pré-industriais e buscar esforços rumo a 1,5 °C; o texto foi adotado na COP21 em 12 de dezembro de 2015, em Paris; o Artigo 4(9) exige que cada parte comunique uma contribuição nacionalmente determinada a cada cinco anos.",
+      "Confirma que o acordo foi adotado em 12 de dezembro de 2015, em Paris, pelas 196 partes da convenção climática da ONU, com o objetivo de manter o aquecimento bem abaixo de 2 °C e buscar 1,5 °C."
+    ]
+  },
+  "demo-h-03": {
+    "prompt": "Em 2001, qual país se tornou o primeiro do mundo a legalizar o casamento entre pessoas do mesmo sexo?",
+    "options": {
+      "a": "Canadá",
+      "b": "Espanha",
+      "c": "Dinamarca",
+      "d": "Países Baixos"
+    },
+    "explanation": "Os Países Baixos foram o primeiro país a adotar o casamento entre pessoas do mesmo sexo: à meia-noite de 1º de abril de 2001, o prefeito de Amsterdã, Job Cohen, casou os quatro primeiros casais do mesmo sexo.",
+    "context": "A Dinamarca foi o primeiro país a oferecer a parceria registrada, em 1989, mas ela não era casamento. A lei holandesa de 2001 foi a primeira a abrir o próprio casamento a casais do mesmo sexo.",
+    "evidence": [
+      "Diz que os Países Baixos foram o primeiro país do mundo a implementar a igualdade no casamento, em 2001, e que à meia-noite de 1º de abril de 2001 o prefeito de Amsterdã, Job Cohen, celebrou o casamento de quatro casais do mesmo sexo.",
+      "Cita o Comissário dizendo que o primeiro país a oferecer parcerias registradas foi a Dinamarca, em 1989, e que os Países Baixos foram os primeiros a adotar o casamento entre pessoas do mesmo sexo, em 2001."
+    ]
+  },
+  "demo-h-04": {
+    "prompt": "A Declaração Universal dos Direitos Humanos, um marco que enuncia os direitos fundamentais de toda pessoa, foi adotada pela Assembleia Geral das Nações Unidas em que ano?",
+    "options": {
+      "a": "1945",
+      "b": "1955",
+      "c": "1962",
+      "d": "1948"
+    },
+    "explanation": "A Assembleia Geral da ONU adotou a Declaração Universal dos Direitos Humanos em Paris, em 10 de dezembro de 1948. A ONU a descreve como o documento que estabeleceu, pela primeira vez, direitos humanos fundamentais a serem protegidos universalmente.",
+    "context": "Um comitê de redação presidido por Eleanor Roosevelt reuniu membros de oito países. A Declaração não é juridicamente vinculante, mas inspirou muitos tratados de direitos humanos posteriores. O dia 10 de dezembro é celebrado todo ano como Dia dos Direitos Humanos.",
+    "evidence": [
+      "Afirma que a Assembleia Geral proclamou a Declaração em Paris em 10 de dezembro de 1948 (resolução 217 A), que ela estabelece pela primeira vez direitos humanos fundamentais a serem protegidos universalmente e que foi redigida por representantes de diferentes origens jurídicas e culturais.",
+      "Confirma a adoção em 10 de dezembro de 1948, em Paris, e que o comitê de redação, presidido por Eleanor Roosevelt, reuniu membros de oito Estados.",
+      "Afirma que o Dia dos Direitos Humanos é 10 de dezembro, marcando a adoção da DUDH em 1948, e que a DUDH não é um documento vinculante, mas inspirou mais de 60 instrumentos de direitos humanos."
+    ]
+  },
+  "demo-h-05": {
+    "prompt": "Quem se tornou o primeiro presidente da África do Sul eleito democraticamente, em 1994, após o fim do apartheid?",
+    "options": {
+      "a": "Desmond Tutu",
+      "b": "F. W. de Klerk",
+      "c": "Thabo Mbeki",
+      "d": "Nelson Mandela"
+    },
+    "explanation": "Após as primeiras eleições nacionais democráticas da África do Sul, em abril de 1994, a nova Assembleia Nacional elegeu Nelson Mandela presidente em 9 de maio de 1994, e ele tomou posse em 10 de maio, nos Union Buildings, em Pretória.",
+    "context": "Mandela passou 27 anos preso. Ele e o presidente que deixava o cargo, F. W. de Klerk, dividiram o Prêmio Nobel da Paz de 1993 por ajudarem a encerrar o apartheid de forma pacífica e a lançar as bases de uma nova África do Sul democrática.",
+    "evidence": [
+      "Afirma que a Assembleia Nacional elegeu Mandela presidente na segunda-feira, 9 de maio de 1994 (indicado por Albertina Sisulu, sem outras indicações), um dia antes de sua posse em Pretória, após a vitória do CNA nas primeiras eleições democráticas do país.",
+      "Afirma que Mandela tomou posse em 10 de maio de 1994 nos Union Buildings, após as primeiras eleições nacionais democráticas de abril de 1994, substituindo F. W. de Klerk na presidência, e que passou 27 anos na prisão.",
+      "Afirma que o Prêmio Nobel da Paz de 1993 foi concedido conjuntamente a Nelson Mandela e F. W. de Klerk por seu trabalho para encerrar o apartheid de forma pacífica e lançar as bases de uma nova África do Sul democrática."
+    ]
+  },
+  "demo-h-06": {
+    "prompt": "Um tratado histórico da ONU adotado em 2006, descrito pela ONU como o primeiro tratado abrangente de direitos humanos do século XXI, protege os direitos de qual grupo?",
+    "options": {
+      "a": "Trabalhadores migrantes",
+      "b": "Refugiados",
+      "c": "Povos indígenas",
+      "d": "Pessoas com deficiência"
+    },
+    "explanation": "A Convenção da ONU sobre os Direitos das Pessoas com Deficiência foi adotada em 13 de dezembro de 2006 e entrou em vigor em 3 de maio de 2008.",
+    "context": "A Convenção marca uma mudança: deixa de tratar as pessoas com deficiência como objetos de caridade, tratamento médico e proteção social e passa a reconhecê-las como pessoas com direitos, capazes de tomar decisões sobre a própria vida.",
+    "evidence": [
+      "Afirma que a Convenção foi adotada em 13 de dezembro de 2006, na sede da ONU, entrou em vigor em 3 de maio de 2008, é chamada de primeiro tratado abrangente de direitos humanos do século XXI e muda a visão das pessoas com deficiência de objetos de caridade e tratamento médico para sujeitos de direitos.",
+      "Confirma a adoção em 13 de dezembro de 2006, a entrada em vigor em 3 de maio de 2008 e a descrição como primeiro tratado abrangente de direitos humanos do século XXI."
+    ]
+  },
+  "demo-h-07": {
+    "prompt": "Em 13 de maio de 1888, o Brasil aboliu a escravidão com uma lei conhecida por qual nome?",
+    "options": {
+      "a": "Lei do Ventre Livre",
+      "b": "Lei Eusébio de Queirós",
+      "c": "Lei Áurea",
+      "d": "Lei dos Sexagenários"
+    },
+    "explanation": "A Lei Áurea (Lei nº 3.353) declarou extinta a escravidão no Brasil a partir de 13 de maio de 1888. Foi assinada pela princesa Isabel, que atuava como regente enquanto o imperador Pedro II estava no exterior. O Brasil foi o último país das Américas a acabar com a escravidão.",
+    "context": "Leis anteriores apenas enfraqueceram a escravidão: a Lei Eusébio de Queirós, de 1850, proibiu o tráfico de escravizados; a Lei do Ventre Livre, de 1871, libertou os filhos de mulheres escravizadas nascidos a partir daquele ano; e a Lei dos Sexagenários libertou os escravizados com mais de 60 anos. A Lei Áurea não deu aos libertos nenhuma indenização nem assistência do Estado.",
+    "evidence": [
+      "Reproduz a Lei nº 3.353, de 13 de maio de 1888, cujo primeiro artigo declara extinta a escravidão no Brasil a partir da data da lei, assinada pela Princesa Imperial Regente.",
+      "Descreve a Lei Eusébio de Queiroz de 1850, que proibiu o tráfico, a Lei do Ventre Livre de 1871 (filhos de mulheres escravizadas nascidos a partir daquele ano eram livres), uma lei que libertava os escravizados com mais de 60 anos e a Lei Áurea de 1888.",
+      "Diz que a Lei Áurea aboliu a escravidão em 13 de maio de 1888 e que a princesa Isabel a sancionou como regente, com o imperador Pedro II no exterior.",
+      "Afirma que o Brasil encerrou formalmente a escravidão em 13 de maio de 1888, sendo o último país das Américas a fazê-lo.",
+      "Complementar: diz que a lei não deu aos libertos indenização nem assistência estatal e que a princesa Isabel a assinou como regente em 13 de maio de 1888."
+    ]
+  },
+  "demo-r-01": {
+    "prompt": "A Arábia Saudita acabou com a proibição de mulheres dirigirem em junho de 2018.",
+    "explanation": "Verdadeiro. A proibição foi suspensa em 24 de junho de 2018, nove meses depois de a decisão ter sido anunciada por decreto real em setembro de 2017.",
+    "context": "Ativistas que defendiam o direito de dirigir foram presas nas semanas anteriores ao fim da proibição e, segundo relatos, ainda estavam na prisão quando ela entrou em vigor.",
+    "evidence": [
+      "Informa que a proibição foi suspensa no domingo, 24 de junho de 2018, após um decreto real de setembro de 2017, e que ativistas da campanha foram presas nas semanas anteriores.",
+      "Datada de 24 de junho de 2018; informa que as mulheres sauditas agora podem dirigir oficialmente, mudança anunciada em setembro anterior, e que a Arábia Saudita era o único país que impedia mulheres de dirigir."
+    ]
+  },
+  "demo-r-02": {
+    "prompt": "Em 2022, a Costa Rica gerou mais de 98% da sua eletricidade a partir de fontes renováveis.",
+    "explanation": "Verdadeiro. Dados do centro nacional de controle de eletricidade da Costa Rica mostraram que 99,25% da eletricidade veio de fontes renováveis em 2022 (de 1º de janeiro a 20 de dezembro), principalmente hidrelétrica, geotérmica e eólica.",
+    "context": "Isso vale só para eletricidade, não para todo o consumo de energia. Relatos indicaram que foi o oitavo ano seguido com mais de 98% de eletricidade renovável. A hidrelétrica respondeu por cerca de três quartos do total em 2022.",
+    "evidence": [
+      "Informa 99,25% de eletricidade renovável em 2022 (1º jan a 20 dez), com dados do CENCE/ICE: hidrelétrica 75,16%, geotérmica 12,97%, eólica 10,65%, biomassa e solar 0,47%; oitavo ano seguido acima de 98%.",
+      "Publicada em 22 de dezembro de 2022; afirma que a geração de eletricidade da Costa Rica superou 98% renovável pelo oitavo ano consecutivo."
+    ]
+  },
+  "demo-r-03": {
+    "prompt": "O buraco de ozônio na Antártida foi causado principalmente pelas emissões de dióxido de carbono.",
+    "explanation": "Falso. O buraco se forma por reações com cloro e bromo, que vêm principalmente dos CFCs, substâncias usadas em produtos como refrigerantes de geladeira e aerossóis. O dióxido de carbono provoca a mudança climática, um problema distinto.",
+    "context": "As nações assinaram o Protocolo de Montreal dois anos depois da descoberta do buraco, em 1985. Uma avaliação de 2023 apoiada pela ONU disse que a camada de ozônio deve voltar aos níveis de 1980 por volta de 2066 sobre a Antártida, se as políticas atuais continuarem.",
+    "evidence": [
+      "Afirma que reações químicas com cloro e bromo destroem o ozônio sobre a região polar sul na primavera do Hemisfério Sul.",
+      "Afirma que o cloro e o bromo que alimentam o buraco vêm principalmente dos CFCs, que o Protocolo de Montreal foi assinado dois anos após a descoberta de 1985 e que a recuperação total levará décadas.",
+      "Relata a avaliação da ONU de 2023: recuperação aos níveis de 1980 por volta de 2066 sobre a Antártida, 2045 sobre o Ártico e 2040 no restante, atribuída à eliminação de substâncias que destroem o ozônio sob o Protocolo de Montreal."
+    ]
+  },
+  "demo-r-04": {
+    "prompt": "As mulheres na Suíça podem votar em eleições nacionais desde 1920.",
+    "explanation": "Falso. As suíças conquistaram o direito de votar e de se candidatar em eleições nacionais após um referendo em 7 de fevereiro de 1971, no qual só homens podiam votar; cerca de 65,7% aprovaram.",
+    "context": "Os direitos nos cantões demoraram ainda mais: Appenzell Innerrhoden, o último cantão, só deu direitos políticos iguais às mulheres em 1990, depois de o Tribunal Federal decidir que excluí-las violava a Constituição. Lá, as mulheres votaram pela primeira vez em uma assembleia cantonal em abril de 1991.",
+    "evidence": [
+      "Afirma que em 7 de fevereiro de 1971 os homens suíços com direito a voto aprovaram o voto e a elegibilidade das mulheres em eleições nacionais, e que Appenzell Innerrhoden, o último cantão, concedeu direitos políticos iguais às mulheres em 1990.",
+      "Diz que 65,7% dos eleitores homens aprovaram o sufrágio feminino federal em 7 de fevereiro de 1971; a decisão do Tribunal Federal em 1990 sobre Appenzell Innerrhoden; e que lá as mulheres votaram pela primeira vez em 28 de abril de 1991."
+    ]
+  },
+  "demo-r-05": {
+    "prompt": "Em 2008, Ruanda se tornou o primeiro país do mundo cuja câmara baixa do parlamento tinha maioria de mulheres.",
+    "explanation": "Verdadeiro. Após a eleição de 2008, 45 das 80 cadeiras (56,3%) da Câmara de Deputados de Ruanda eram ocupadas por mulheres, o que a UIP descreveu como a primeira câmara única ou baixa da história com maioria feminina.",
+    "context": "Ruanda usa um sistema de cotas, e 24 das 80 cadeiras são, na prática, reservadas a mulheres. A base Parline da UIP lista hoje cerca de 64% de mulheres na câmara baixa. Números no parlamento sozinhos não medem a igualdade das mulheres na sociedade em geral.",
+    "evidence": [
+      "Relata que Ruanda liderou a lista mundial em 2008, com 56% das cadeiras da câmara baixa ocupadas por mulheres, e que um sistema de cotas reserva na prática 24 das 80 cadeiras.",
+      "Atualmente lista 63,75% dos membros da câmara baixa como mulheres."
+    ]
+  },
+  "demo-r-06": {
+    "prompt": "Jóhanna Sigurðardóttir, que se tornou a primeira mulher primeira-ministra da Islândia em 2009, casou-se com sua parceira em 2010.",
+    "explanation": "Verdadeiro. Sigurðardóttir tomou posse como primeira-ministra em 1º de fevereiro de 2009 e casou-se com Jónína Leósdóttir em 27 de junho de 2010, dia em que o casamento entre pessoas do mesmo sexo se tornou legal na Islândia.",
+    "context": "Ela foi amplamente apontada como a primeira chefe de governo abertamente gay do mundo. A Britannica observa que Per-Kristian Foss foi brevemente primeiro-ministro interino da Noruega em 2002, então o título de “primeira” não é indiscutível.",
+    "evidence": [
+      "Relata que Sigurdardottir assumiu como primeira-ministra da Islândia, a primeira mulher no cargo e a primeira líder nacional abertamente gay da era moderna.",
+      "Afirma que ela governou de 2009 a 2013, tomou posse em 1º de fevereiro de 2009 e em 27 de junho de 2010 casou-se com Jónína Leósdóttir no dia em que o casamento igualitário se tornou legal; registra a ressalva sobre Foss."
+    ]
+  },
+  "demo-r-07": {
+    "prompt": "O te reo māori nunca foi uma língua oficial da Nova Zelândia.",
+    "explanation": "Falso. A seção 3 da Lei da Língua Māori de 1987 declarou o māori língua oficial da Nova Zelândia, e a lei entrou em vigor em 1º de agosto de 1987.",
+    "context": "A lei também criou a Comissão da Língua Māori, rebatizada Te Taura Whiri i te Reo Māori em 1991. Ela seguiu uma conclusão do Tribunal de Waitangi, em 1985, de que o te reo é um taonga que a Coroa deve proteger. A lei de 1987 foi depois substituída pela Lei da Língua Māori de 2016.",
+    "evidence": [
+      "A seção 3 declara a língua māori língua oficial da Nova Zelândia; registra que a lei foi revogada em 30 de abril de 2016 pela Lei da Língua Māori de 2016.",
+      "Afirma que a lei entrou em vigor em 1º de agosto de 1987 tornando o te reo māori oficial, criou a Comissão da Língua Māori (renomeada em 1991), após conclusão do Tribunal de Waitangi de 1985 de que o te reo é um taonga."
+    ]
+  },
+  "demo-w-01": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1940 em Nyeri, no Quênia, e em 1971 obtive um doutorado na Universidade de Nairóbi.",
+      "Em 1977 fundei um movimento popular que incentivava as mulheres a plantar árvores.",
+      "Em 2004 me tornei a primeira mulher africana a receber o Prêmio Nobel da Paz."
+    ],
+    "options": {
+      "a": "Ellen Johnson Sirleaf",
+      "b": "Leymah Gbowee",
+      "c": "Wangari Maathai",
+      "d": "Graça Machel"
+    },
+    "explanation": "Wangari Maathai (1940–2011) fundou o Movimento Cinturão Verde, que une o plantio de árvores ao empoderamento das mulheres, à proteção ambiental e à democracia.",
+    "context": "A Britannica observa que ela foi, na prática, a primeira mulher da África Oriental ou Central a obter um doutorado. Após as eleições de 2002, ela foi vice-ministra do Meio Ambiente, Recursos Naturais e Vida Selvagem do Quênia.",
+    "evidence": [
+      "Nascida em 1940 em Nyeri, Quênia; doutorado pela Universidade de Nairóbi em 1971; Nobel da Paz de 2004; nomeada vice-ministra do Meio Ambiente, Recursos Naturais e Vida Selvagem após a eleição de dezembro de 2002.",
+      "Movimento Cinturão Verde fundado em 5 de junho de 1977; Maathai foi a primeira mulher africana a receber o Nobel da Paz (2004).",
+      "Nascida em 1º de abril de 1940 em Nyeri; doutorado em 1971, na prática a primeira mulher da África Oriental ou Central com doutorado; movimento fundado em 1977 e, no início do século XXI, havia plantado cerca de 30 milhões de árvores."
+    ]
+  },
+  "demo-w-02": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Sou uma organização que nasceu em Londres, em 1961.",
+      "Surgi de um apelo publicado em um jornal britânico por um advogado, convocando o público a agir em favor de pessoas presas por expressarem pacificamente suas crenças.",
+      "Em 1977 recebi o Prêmio Nobel da Paz."
+    ],
+    "options": {
+      "a": "A Cruz Vermelha",
+      "b": "Anistia Internacional",
+      "c": "Human Rights Watch",
+      "d": "Médicos Sem Fronteiras"
+    },
+    "explanation": "A Anistia Internacional nasceu do apelo “Os Prisioneiros Esquecidos”, de Peter Benenson, publicado no jornal The Observer em 1961, que popularizou o termo “prisioneiros de consciência”.",
+    "context": "O apelo levou à formação de grupos de cartas em vários países. Delegados de sete países se reuniram em julho de 1961 para criar um movimento internacional permanente, que adotou o nome Anistia Internacional no ano seguinte.",
+    "evidence": [
+      "Fundada em Londres em 28 de maio de 1961 por Peter Benenson, advogado britânico; recebeu o Nobel da Paz de 1977.",
+      "Em 1961, o advogado britânico Peter Benenson escreveu “The Forgotten Prisoners” para o Observer, lançando o Appeal for Amnesty; a Anistia recebeu o Nobel da Paz em 1977.",
+      "O artigo de Benenson saiu na primeira página do Observer em maio de 1961, pediu protestos em favor de pessoas presas por expressão pacífica e popularizou “prisioneiros de consciência”; delegados de sete países se reuniram em julho e o órgão passou a se chamar Anistia Internacional no ano seguinte."
+    ]
+  },
+  "demo-w-03": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Fui uma matemática que começou a trabalhar na NACA, agência que antecedeu a NASA, em 1953.",
+      "Antes de seu voo orbital de 1962, um astronauta pediu meu nome para conferir os cálculos de trajetória feitos pelo computador.",
+      "Um filme de 2016, Estrelas Além do Tempo, conta parte da minha história."
+    ],
+    "options": {
+      "a": "Dorothy Vaughan",
+      "b": "Mary Jackson",
+      "c": "Mae Jemison",
+      "d": "Katherine Johnson"
+    },
+    "explanation": "Os cálculos de Katherine Johnson apoiaram os primeiros voos espaciais tripulados dos EUA; John Glenn pediu que ela verificasse os números do computador antes de seu voo orbital Friendship 7, em 1962.",
+    "context": "Ela trabalhou na seção de computação West Area, só de mulheres negras, no centro de Langley, chefiada por Dorothy Vaughan. O presidente Barack Obama concedeu a ela a Medalha Presidencial da Liberdade em 2015.",
+    "evidence": [
+      "Contratada pela NACA em junho de 1953; trabalhou na seção West Area Computing, só de pessoas negras, chefiada por Dorothy Vaughan; Glenn pediu que ela conferisse os cálculos orbitais antes de voar; Medalha da Liberdade em 2015.",
+      "Glenn pediu que ela conferisse as trajetórias do computador eletrônico antes do voo Friendship 7, em 1962; Obama a condecorou com a Medalha Presidencial da Liberdade em 2015; Taraji P. Henson a interpretou no filme de 2016.",
+      "A Friendship 7 foi lançada em 20 de fevereiro de 1962; o pedido de Glenn veio pouco antes do lançamento, mas a data exata não é documentada."
+    ]
+  },
+  "demo-w-04": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1997 em Mingora, no Vale do Swat, no Paquistão.",
+      "Em 2012 fui baleada pelo Talibã quando voltava da escola, porque fazia campanha pela educação das meninas.",
+      "Em 2014, aos 17 anos, me tornei a pessoa mais jovem da história a receber o Prêmio Nobel da Paz."
+    ],
+    "options": {
+      "a": "Benazir Bhutto",
+      "b": "Malala Yousafzai",
+      "c": "Kailash Satyarthi",
+      "d": "Greta Thunberg"
+    },
+    "explanation": "Malala Yousafzai sobreviveu ao ataque, foi tratada na Inglaterra e se tornou uma defensora global da educação das meninas, cofundando o Fundo Malala com o pai.",
+    "context": "Ela dividiu o Nobel da Paz de 2014 com o indiano Kailash Satyarthi, premiados por seu trabalho pelos direitos das crianças.",
+    "evidence": [
+      "Nascida em 12 de julho de 1997 em Mingora, Vale do Swat; baleada pelo Talibã em 9 de outubro de 2012; a mais jovem laureada com o Nobel da Paz, aos 17 anos; dividiu o prêmio com Kailash Satyarthi; cofundou o Fundo Malala.",
+      "Nascida em Mingora, Swat, em 1997; baleada por um atirador do TTP em 9 de outubro de 2012 quando voltava da escola; tratada em Birmingham; dividiu o Nobel da Paz de 2014 e é a mais jovem laureada.",
+      "Nascida em Mingora, Vale do Swat; baleada no ônibus escolar em 9 de outubro de 2012; Nobel da Paz aos 17 anos; Fundo Malala criado em 2014 com o pai."
+    ]
+  },
+  "demo-w-05": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1944 em Xapuri, no estado brasileiro do Acre, e comecei a sangrar seringueiras ainda menino.",
+      "Organizei seringueiros para resistir ao desmatamento da floresta amazônica para a pecuária, usando bloqueios humanos não violentos.",
+      "Fui assassinado em 1988, e uma autarquia federal de biodiversidade criada em 2007 leva o meu nome."
+    ],
+    "options": {
+      "a": "Sebastião Salgado",
+      "b": "Paulo Freire",
+      "c": "Marina Silva",
+      "d": "Chico Mendes"
+    },
+    "explanation": "Chico Mendes liderou o sindicato dos seringueiros em Xapuri e se tornou símbolo da ligação entre a proteção da floresta e os direitos de quem vive dela.",
+    "context": "Seus bloqueios, chamados empates, usavam o próprio corpo das pessoas para impedir a derrubada das árvores. Ele foi morto a tiros na porta de casa em 22 de dezembro de 1988. O Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) foi criado pela Lei 11.516, de 28 de agosto de 2007.",
+    "evidence": [
+      "Nascido em 15 de dezembro de 1944 no Acre (cidade natal: Xapuri); sangrava seringueiras desde os onze anos; liderou o sindicato de Xapuri; usou o empate, bloqueio humano, contra o desmatamento para a pecuária; morto em 22 de dezembro de 1988.",
+      "Nascido em 1944 em Xapuri, Acre; usou bloqueios humanos (empates) contra o desmatamento; morto a tiros em frente de casa, em Xapuri, em dezembro de 1988.",
+      "A Lei 11.516, de 28/08/2007, cria o Instituto Chico Mendes de Conservação da Biodiversidade.",
+      "Nascido em 1944; começou a sangrar seringueiras ainda criança; morto em 22 de dezembro de 1988, em Xapuri, por um tiro disparado por um fazendeiro."
+    ]
+  },
+  "demo-w-06": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Sou uma mulher maia k’iche’ da Guatemala.",
+      "Meu irmão e minha mãe foram mortos pelas forças de segurança da Guatemala em 1979–1980, e em 1981 parti para o exílio no México.",
+      "Em 1992 recebi o Prêmio Nobel da Paz por meu trabalho pelos direitos dos povos indígenas."
+    ],
+    "options": {
+      "a": "Berta Cáceres",
+      "b": "Frida Kahlo",
+      "c": "Rigoberta Menchú",
+      "d": "Violeta Chamorro"
+    },
+    "explanation": "Rigoberta Menchú Tum, nascida em 1959, tornou-se uma defensora internacional dos direitos indígenas e da reconciliação etnocultural, e usou o dinheiro do Nobel para fundar uma organização em defesa dos povos indígenas.",
+    "context": "Sua autobiografia tornou-se um relato influente das atrocidades do exército na guerra civil guatemalteca. Após uma crítica de 1999 a trechos do livro, o Comitê Nobel disse que o prêmio não se baseava principalmente na obra e não o revogou.",
+    "evidence": [
+      "Nascida em 9 de janeiro de 1959 em uma família camponesa maia (quiché); familiares mortos pelas forças de segurança em 1979–1980; exílio no México em 1981; Nobel da Paz de 1992 por sua defesa dos direitos indígenas; o Comitê rejeitou pedidos de revogação após a crítica de 1999 ao livro.",
+      "Ativista maia quiché (k’iche’) da Guatemala; Nobel da Paz de 1992; irmão morto por um esquadrão da morte militar em 1979, mãe assassinada em 1980; fugiu para o México em 1981; fundou uma organização de defesa indígena com o dinheiro do prêmio."
+    ]
+  },
+  "demo-w-07": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Fui um matemático britânico que trabalhou em Bletchley Park, durante a Segunda Guerra Mundial, na quebra de mensagens alemãs da Enigma.",
+      "Em 1950 publiquei um artigo propondo um “jogo da imitação” para perguntar se máquinas podem pensar, ideia hoje muitas vezes associada ao meu nome.",
+      "Fui condenado em 1952 por atos homossexuais, então ilegais, e recebi um perdão real em 2013."
+    ],
+    "options": {
+      "a": "Charles Babbage",
+      "b": "Alan Turing",
+      "c": "Tim Berners-Lee",
+      "d": "John von Neumann"
+    },
+    "explanation": "Alan Turing foi um dos fundadores da ciência da computação e da inteligência artificial, e seu trabalho na guerra foi central para quebrar o código da Enigma.",
+    "context": "Após a condenação de 1952, ele perdeu a autorização de segurança e foi obrigado a fazer tratamento hormonal; morreu em 1954. O perdão do governo britânico entrou em vigor em 24 de dezembro de 2013.",
+    "evidence": [
+      "Trabalhou em Bletchley Park e foi central para quebrar a Enigma; condenado em 1952 por atividade homossexual, então ilegal; perdão concedido em 24 de dezembro de 2013; perdeu a autorização de segurança.",
+      "Condenado por “indecência grave” em 1952; obrigado a tomar estrogênio; morreu em 1954; a rainha Elizabeth II concedeu perdão póstumo em dezembro de 2013.",
+      "Cópia do artigo de Turing na revista Mind, vol. LIX, nº 236, outubro de 1950, que apresenta o “jogo da imitação”."
+    ]
+  },
+  "demo-h-09": {
+    "prompt": "Em maio de 2019, qual lugar se tornou o primeiro da Ásia a legalizar o casamento entre pessoas do mesmo sexo?",
+    "options": {
+      "a": "Taiwan",
+      "b": "Tailândia",
+      "c": "Japão",
+      "d": "Filipinas"
+    },
+    "explanation": "Em 17 de maio de 2019, o Legislativo de Taiwan aprovou uma lei que dá aos casais do mesmo sexo direitos de casamento, um feito inédito na Ásia. A lei veio depois de uma decisão do Tribunal Constitucional, em maio de 2017, de que a Constituição permite o casamento igualitário, dando ao Parlamento dois anos para mudar a legislação.",
+    "context": "A votação ocorreu no Dia Internacional contra a Homofobia, a Transfobia e a Bifobia, e multidões se reuniram do lado de fora do Legislativo para ouvir o resultado.",
+    "evidence": [
+      "Informa que o Legislativo de Taiwan aprovou, na sexta-feira 17 de maio de 2019, uma lei de casamento igualitário, descrita como inédita na Ásia, e que o Tribunal Constitucional decidiu em maio de 2017 que a Constituição o permite, dando dois anos ao Parlamento.",
+      "Afirma que Taiwan se tornou o primeiro país da Ásia a legalizar o casamento entre pessoas do mesmo sexo em 17 de maio de 2019, que apoiadores comemoraram do lado de fora do Legislativo e que a data coincidiu com o Dia Internacional contra a Homofobia, a Transfobia e a Bifobia."
+    ]
+  },
+  "demo-h-10": {
+    "prompt": "Em janeiro de 2006, quem tomou posse em Monróvia como a primeira mulher eleita chefe de Estado na África?",
+    "options": {
+      "a": "Joyce Banda",
+      "b": "Samia Suluhu Hassan",
+      "c": "Ameenah Gurib-Fakim",
+      "d": "Ellen Johnson Sirleaf"
+    },
+    "explanation": "Ellen Johnson Sirleaf tomou posse como presidente da Libéria em 16 de janeiro de 2006, tornando-se a primeira mulher eleita a liderar um país africano. Foi reeleita e, em 2011, dividiu o Prêmio Nobel da Paz.",
+    "context": "Ela foi a 24ª presidente da Libéria e cumpriu dois mandatos, até 2018. Em 2011, dividiu o Nobel da Paz com Leymah Gbowee, da Libéria, e Tawakkul Karman, do Iêmen. As outras mulheres das alternativas lideraram Malawi, Tanzânia e Maurício mais tarde.",
+    "evidence": [
+      "Descreve Sirleaf como a primeira chefe de Estado eleita da África, no cargo desde 16 de janeiro de 2006.",
+      "Diz que ela tomou posse como presidente da Libéria em 16 de janeiro de 2006 como a primeira mulher eleita chefe de Estado na África, foi a 24ª presidente e dividiu o Nobel da Paz de 2011 com Leymah Gbowee e Tawakkul Karman."
+    ]
+  },
+  "demo-h-11": {
+    "prompt": "Em 2008, qual país se tornou o primeiro a reconhecer os direitos da natureza em sua constituição nacional?",
+    "options": {
+      "a": "Bolívia",
+      "b": "Equador",
+      "c": "Colômbia",
+      "d": "Peru"
+    },
+    "explanation": "A Constituição do Equador de 2008, aprovada pelos eleitores em referendo, afirma que a natureza, ou Pacha Mama, tem direito ao respeito integral e à regeneração de seus ciclos vitais. Foi a primeira constituição nacional a reconhecer tais direitos.",
+    "context": "O texto se inspira na ideia andina da Pachamama, ou Mãe Terra, e permite que comunidades defendam os direitos da natureza. Os artigos 71 a 74 tratam da restauração de ecossistemas e de limites aos danos a espécies.",
+    "evidence": [
+      "Diz que o Equador ratificou uma nova constituição em 2008 e foi a primeira nação a reconhecer direitos da natureza em sua constituição nacional, citando o Artigo 71 sobre o direito da Pacha Mama ao respeito integral, com os Artigos 71 a 74 sobre restauração e defesa pelas comunidades.",
+      "Diz que o Equador se tornou o primeiro país a reconhecer os direitos da natureza em sua constituição nacional em 2008, que os eleitores a aprovaram com quase 64 por cento e que ela trata a Pachamama como entidade jurídica com direitos ao respeito e à regeneração."
+    ]
+  },
+  "demo-h-12": {
+    "prompt": "Em 2007, em qual país da África Oriental foi lançado o M-Pesa, serviço de celular que permite enviar, receber e guardar dinheiro?",
+    "options": {
+      "a": "Tanzânia",
+      "b": "Uganda",
+      "c": "Quênia",
+      "d": "Etiópia"
+    },
+    "explanation": "O M-Pesa foi lançado no Quênia em 2007 pela operadora Safaricom, com a Vodafone. O nome junta \"m\", de mobile (celular), com a palavra suaíli \"pesa\", que significa dinheiro.",
+    "context": "O M-Pesa permitiu que pessoas sem conta bancária movimentassem dinheiro pelo celular e hoje é citado como exemplo líder de dinheiro móvel. A Vodafone cita um estudo segundo o qual ele tirou cerca de 2 por cento dos domicílios quenianos da pobreza.",
+    "evidence": [
+      "Diz que a Vodafone lançou o M-Pesa com sua associada queniana Safaricom em 2007 e que ele permite enviar, receber e guardar dinheiro eletronicamente.",
+      "Afirma que o M-Pesa foi lançado em 2007 no Quênia pela Safaricom e que o nome combina \"m\", de mobile, com o suaíli \"pesa\", dinheiro."
+    ]
+  },
+  "demo-r-08": {
+    "prompt": "Em outubro de 2018, o parlamento da Etiópia elegeu Sahle-Work Zewde como a primeira presidente mulher do país.",
+    "explanation": "Verdadeiro. O parlamento da Etiópia elegeu por unanimidade a diplomata e ex-funcionária da ONU Sahle-Work Zewde como presidente em 25 de outubro de 2018, tornando-a a primeira mulher a ocupar o cargo na Etiópia moderna.",
+    "context": "A presidência etíope é em grande parte cerimonial, e o poder executivo fica com o primeiro-ministro.",
+    "evidence": [
+      "Informa que ela foi eleita presidente da Etiópia em 25 de outubro de 2018, escolhida por unanimidade pelo parlamento para suceder Mulatu Teshome, e apresenta o fato como a primeira mulher chefe de Estado da Etiópia moderna.",
+      "Relata que o parlamento etíope escolheu Sahle-Work Zewde, diplomata e ex-funcionária da ONU, na quinta-feira, 25 de outubro de 2018, como a primeira presidente da história moderna do país, em um cargo em grande parte cerimonial."
+    ]
+  },
+  "demo-r-11": {
+    "prompt": "Mahatma Gandhi recebeu o Prêmio Nobel da Paz por liderar a campanha não violenta da Índia contra o domínio britânico.",
+    "explanation": "Falso. Gandhi nunca recebeu o Prêmio Nobel da Paz. Ele foi indicado cinco vezes (1937, 1938, 1939, 1947 e 1948) e, em 1948, após seu assassinato em janeiro, o comitê disse não haver candidato vivo adequado.",
+    "context": "Gandhi é uma das pessoas mais famosas que nunca ganharam o Nobel da Paz. O site do Nobel tem uma página sobre ele intitulada “o laureado ausente”.",
+    "evidence": [
+      "Diz que Gandhi nunca recebeu o Nobel da Paz e foi indicado cinco vezes: 1937, 1938, 1939, 1947 e pouco antes de seu assassinato, em janeiro de 1948.",
+      "Confirma que Gandhi nunca ganhou, lista indicações em 1937, 1938, 1939, 1947 e 1948 e diz que o comitê não encontrou candidato vivo adequado em 1948, após o assassinato."
+    ]
+  },
+  "demo-r-12": {
+    "prompt": "O referendo australiano de 1967 deu aos aborígenes e ilhéus do Estreito de Torres o direito de votar em eleições federais.",
+    "explanation": "Falso. O referendo de 1967 permitiu que indígenas fossem contados na população e que o governo federal legislasse para eles. O direito de se registrar e votar em eleições federais veio antes, em 1962 (o voto só passou a ser obrigatório em 1984).",
+    "context": "O referendo de 1967 foi aprovado por cerca de 90% dos eleitores, mas é um equívoco comum achar que ele concedeu o voto.",
+    "evidence": [
+      "Informa que o referendo alterou duas seções da Constituição (contar indígenas na população; poder federal de legislar para eles), que 90,77% votaram sim em 27 de maio de 1967, que ele não deu o direito de voto e que uma emenda de 1962 deu o direito de se registrar e votar em eleições federais, com registro obrigatório em 1984.",
+      "Diz que o referendo retirou duas linhas da Constituição para incluir indígenas nos dados populacionais e permitir que o governo federal legisle para eles, e que em 1962 indígenas receberam o direito de se registrar para votar em eleições federais."
+    ]
+  },
+  "demo-w-08": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1898 perto de Bulawayo, na então Rodésia, hoje Zimbábue.",
+      "Tornei-me presidente do Congresso Nacional Africano em 1952 e ocupei o cargo até minha morte, em 1967.",
+      "Por minha luta não violenta contra o apartheid, fui o primeiro africano a receber o Prêmio Nobel da Paz."
+    ],
+    "options": {
+      "a": "Oliver Tambo",
+      "b": "Desmond Tutu",
+      "c": "Albert Luthuli",
+      "d": "Steve Biko"
+    },
+    "explanation": "Albert Luthuli (1898-1967) presidiu o CNA a partir de 1952 e recebeu o Nobel da Paz de 1960, entregue em 1961, por sua luta não violenta contra o apartheid. Foi o primeiro laureado africano.",
+    "context": "O prêmio de 1960 foi anunciado em 1961 e entregue a Luthuli em dezembro daquele ano. Desmond Tutu ganhou o Nobel da Paz em 1984, portanto não foi o primeiro africano laureado.",
+    "evidence": [
+      "Nascido em 1898 em Bulawayo, Rodésia do Sul; eleito presidente do CNA em 1952; Nobel da Paz de 1960 pela luta não violenta contra o apartheid, recebido em 1961; descrito como o primeiro laureado africano.",
+      "Nascido em 1898 perto de Bulawayo, Rodésia; presidente do CNA de 1952 até sua morte em 1967; Nobel da Paz de 1960, primeiro africano a receber."
+    ]
+  },
+  "demo-w-09": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1899 em Tost, então parte da Alemanha, e me formei em neurologia.",
+      "Fugi da Alemanha nazista em 1939 e, em 1944, assumi o Centro Nacional de Lesões Medulares do Hospital Stoke Mandeville.",
+      "Em 29 de julho de 1948, dia da abertura das Olimpíadas de Londres, organizei uma competição de tiro com arco para pacientes com deficiência que deu origem aos Jogos Paralímpicos."
+    ],
+    "options": {
+      "a": "Ludwig Guttmann",
+      "b": "Hans Asperger",
+      "c": "Ernst Chain",
+      "d": "Max Perutz"
+    },
+    "explanation": "Sir Ludwig Guttmann (1899-1980) usou o esporte na reabilitação de pacientes com lesão medular. A competição de tiro com arco de 1948 virou os Jogos de Stoke Mandeville, e a edição de 1960, em Roma, é considerada os primeiros Jogos Paralímpicos.",
+    "context": "Guttmann foi condecorado cavaleiro em 1966. O mascote das Paralimpíadas de Londres 2012, Mandeville, homenageou a origem dos Jogos em Stoke Mandeville.",
+    "evidence": [
+      "Neurologista judeu-alemão que fugiu da Alemanha nazista em 1939; abriu o Centro Nacional de Lesões Medulares em Stoke Mandeville em 1944; primeiros jogos em 29 de julho de 1948, dia da abertura das Olimpíadas de Londres; condecorado cavaleiro em 1966.",
+      "Nascido em 3 de julho de 1899 em Tost, Alemanha; chefiou o centro de Stoke Mandeville desde 1944; competição de tiro com arco para 16 pacientes em 29 de julho de 1948; reconhecido como fundador dos Jogos Paralímpicos."
+    ]
+  },
+  "demo-w-10": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1916 no Ceilão, hoje Sri Lanka.",
+      "Depois que meu marido, o primeiro-ministro, foi assassinado em 1959, levei o partido dele à vitória na eleição de julho de 1960.",
+      "Assumi o cargo em 21 de julho de 1960 como a primeira mulher primeira-ministra do mundo e cumpri três mandatos."
+    ],
+    "options": {
+      "a": "Indira Gandhi",
+      "b": "Sirimavo Bandaranaike",
+      "c": "Benazir Bhutto",
+      "d": "Fatima Jinnah"
+    },
+    "explanation": "Sirimavo Bandaranaike (1916-2000) levou o Partido da Liberdade do Sri Lanka à vitória em 1960 e se tornou a primeira mulher primeira-ministra do mundo. Governou em 1960-65, 1970-77 e 1994-2000.",
+    "context": "Sua filha, Chandrika Bandaranaike Kumaratunga, tornou-se a primeira presidente mulher do Sri Lanka em 1994.",
+    "evidence": [
+      "Nascida em 1916 no Ceilão; após o assassinato do marido em 1959, levou o SLFP à vitória em 1960; primeira mulher primeira-ministra do mundo; três mandatos (1960-65, 1970-77, 1994-2000); a filha foi a primeira presidente mulher em 1994.",
+      "Nascida em 17 de abril de 1916; marido baleado em setembro de 1959; o SLFP elegeu 75 cadeiras na eleição de julho de 1960; ela assumiu em 21 de julho de 1960 como a primeira mulher primeira-ministra do mundo."
+    ]
+  },
+  "demo-w-11": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Nasci em 1936 no Estreito de Torres, na ilha de Mer (Murray Island).",
+      "Em 1982, com outros quatro autores, entrei com uma ação na Alta Corte da Austrália para reivindicar o título legal de nossa terra.",
+      "Morri em janeiro de 1992, meses antes de a decisão de 3 de junho rejeitar a terra nullius e reconhecer o título nativo."
+    ],
+    "options": {
+      "a": "Vincent Lingiari",
+      "b": "Eddie Mabo",
+      "c": "Noel Pearson",
+      "d": "Charles Perkins"
+    },
+    "explanation": "Eddie Koiki Mabo (1936-1992), homem meriam de Mer, foi o principal autor de Mabo v Queensland (nº 2). Em 3 de junho de 1992, a Alta Corte reconheceu o título nativo e derrubou a doutrina da terra nullius.",
+    "context": "A Lei do Título Nativo, de 1993, transformou a decisão em lei. Mabo morreu de câncer em 21 de janeiro de 1992 e não viu o veredicto.",
+    "evidence": [
+      "Nascido em 29 de junho de 1936 em Mer (Murray Island), Estreito de Torres; morreu em 21 de janeiro de 1992, antes do desfecho do caso; a decisão de 3 de junho de 1992 reconheceu o título nativo, na prática derrubando a terra nullius.",
+      "Nascido em 1936 na vila de Las, em Mer; em 1982 Mabo e outros quatro entraram com Mabo v Queensland na Alta Corte; o nº 2 foi julgado em 3 de junho de 1992, declarando a terra nullius inválida; Lei do Título Nativo de 1993."
+    ]
+  },
+  "demo-w-12": {
+    "prompt": "Quem sou eu?",
+    "clues": [
+      "Sou uma organização fundada na Índia no início da década de 1970.",
+      "Tenho sede em Ahmedabad, Gujarat, e nasci da ala feminina de um sindicato de trabalhadores têxteis.",
+      "Fui registrada como sindicato em 12 de abril de 1972 para representar mulheres pobres autônomas da economia informal, como vendedoras e recicladoras de lixo; Ela Bhatt me idealizou."
+    ],
+    "options": {
+      "a": "Movimento Chipko",
+      "b": "Gulabi Gang",
+      "c": "Grameen Bank",
+      "d": "Associação de Mulheres Autônomas (SEWA)"
+    },
+    "explanation": "A SEWA, Associação de Mulheres Autônomas, foi registrada como sindicato em Ahmedabad em 12 de abril de 1972 e organiza mulheres da economia informal. Ela Bhatt a idealizou.",
+    "context": "A SEWA recebeu o Right Livelihood Award em 1984. Seu site informa cerca de 3,7 milhões de membros.",
+    "evidence": [
+      "Registrada como sindicato em 12 de abril de 1972 pela Lei dos Sindicatos de 1926; nasceu da ala feminina da Textile Labour Association em Ahmedabad; idealizada por Ela Bhatt; membros são mulheres pobres autônomas da economia informal, de vendedoras a recicladoras.",
+      "SEWA fundada em 1972 por Ela Bhatt, sede em Ahmedabad; registrada como sindicato de mulheres autônomas; Right Livelihood Award em 1984."
+    ]
+  },
+  "rt-01": {
+    "prompt": "Uma mulher recebe repetidas ameaças de morte críveis de um ex-companheiro que a segue por toda parte. Ela denuncia várias vezes, mas as autoridades não tomam nenhuma medida de proteção e mandam que ela espere até que algo aconteça. Qual direito está mais diretamente em jogo?",
+    "options": {
+      "a": "Proteção do lar",
+      "b": "Direito à vida, à liberdade e à segurança pessoal",
+      "c": "Direito à liberdade de locomoção",
+      "d": "Proteção contra prisão ou detenção arbitrárias"
+    },
+    "explanation": "O artigo 3º da DUDH garante a todo ser humano o direito à vida, à liberdade e à segurança pessoal, o que inclui a proteção contra ameaças críveis à sua integridade física.",
+    "context": "As outras opções são direitos vizinhos: o artigo 12 trata de interferências arbitrárias no lar, o 13 da locomoção e residência e o 9 da prisão arbitrária. Aqui o dano central é o perigo para a vida e a segurança pessoal, um tema central na resposta dos Estados à violência de gênero.",
+    "evidence": [
+      "O artigo 3 da DUDH diz: \"Everyone has the right to life, liberty and security of person.\"",
+      "Artigo 3: \"Todo ser humano tem direito à vida, à liberdade e à segurança pessoal.\""
+    ]
+  },
+  "rt-02": {
+    "prompt": "Uma casa de cuidados para adultos com deficiência intelectual pune os moradores que \"se comportam mal\" amarrando-os a cadeiras em um quarto escuro por horas. Os funcionários dizem que isso mantém a ordem. Qual direito está em jogo?",
+    "options": {
+      "a": "Direito a uma audiência justa e pública",
+      "b": "Proteção da vida privada",
+      "c": "Proteção contra prisão ou detenção arbitrárias",
+      "d": "Direito de não ser submetido a tortura nem a tratamento ou castigo cruel, desumano ou degradante"
+    },
+    "explanation": "O artigo 5º da DUDH proíbe a tortura e o tratamento ou castigo cruel, desumano ou degradante; amarrar e isolar moradores como punição se enquadra claramente nessa proibição.",
+    "context": "Os moradores não estão sendo acusados (artigo 10), vigiados (artigo 12) ou presos (artigo 9); o dano é o próprio tratamento degradante. A proibição é absoluta: nenhuma alegação de manter a ordem a justifica, e ela vale tanto em instituições de cuidado quanto em prisões.",
+    "evidence": [
+      "O artigo 5 da DUDH diz: \"No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.\"",
+      "Artigo 5: \"Ninguém será submetido à tortura, nem a tratamento ou castigo cruel, desumano ou degradante.\"",
+      "O Comitê afirma que a proibição protege \"a dignidade e a integridade física e mental\" da pessoa e que nenhuma justificativa pode desculpar a violação."
+    ]
+  },
+  "rt-03": {
+    "prompt": "Dois vizinhos são flagrados jogando lixo no chão no mesmo dia. O da comunidade majoritária recebe um aviso amigável, enquanto o de um grupo étnico minoritário é processado e multado com base no mesmo regulamento. Qual direito está em jogo?",
+    "options": {
+      "a": "Direito à igualdade perante a lei",
+      "b": "Direito a uma audiência justa e pública",
+      "c": "Direito à presunção de inocência",
+      "d": "Proteção contra prisão ou detenção arbitrárias"
+    },
+    "explanation": "O artigo 7º da DUDH afirma que todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei.",
+    "context": "Ninguém aqui teve uma audiência negada (artigo 10), foi tratado como culpado sem provas (artigo 11) ou foi preso (artigo 9); o problema é a mesma lei ser aplicada de forma diferente conforme a etnia. Essa aplicação desigual é uma forma clássica de policiamento discriminatório.",
+    "evidence": [
+      "O artigo 7 da DUDH diz: \"All are equal before the law and are entitled without any discrimination to equal protection of the law.\"",
+      "Artigo 7: \"Todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei.\""
+    ]
+  },
+  "rt-04": {
+    "prompt": "Uma comunidade indígena tem direitos sobre suas terras reconhecidos pela constituição nacional. Quando começa o desmatamento no território, todos os tribunais a que ela recorre se recusam a aceitar o caso, alegando falta de competência. Qual direito está em jogo?",
+    "options": {
+      "a": "Direito à propriedade",
+      "b": "Direito a uma audiência justa e pública",
+      "c": "Direito a um recurso efetivo",
+      "d": "Direito à igualdade perante a lei"
+    },
+    "explanation": "O artigo 8º da DUDH dá a todo ser humano o direito de receber dos tribunais nacionais competentes remédio efetivo contra atos que violem os direitos fundamentais reconhecidos pela constituição ou pela lei.",
+    "context": "A propriedade (artigo 17) talvez também tenha sido violada, mas a falha específica é que nenhum tribunal oferece qualquer reparação. Uma audiência justa (artigo 10) pressupõe um tribunal que de fato analise o caso, e a igualdade (artigo 7) não é a questão levantada.",
+    "evidence": [
+      "O artigo 8 da DUDH diz: \"Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.\"",
+      "Artigo 8: \"Todo ser humano tem direito a receber dos tribunais nacionais competentes remédio efetivo para os atos que violem os direitos fundamentais ...\"",
+      "O Comitê menciona \"o direito a um recurso efetivo\" com base no artigo 2, parágrafo 3, em conexão com as garantias de julgamento justo."
+    ]
+  },
+  "rt-05": {
+    "prompt": "Uma ativista da oposição é retirada de casa à noite por agentes à paisana. Ela fica presa por cinco semanas sem acusação, sem motivo informado e sem controle judicial. Qual direito está em jogo?",
+    "options": {
+      "a": "Direito à presunção de inocência",
+      "b": "Direito a uma audiência justa e pública",
+      "c": "Direito à liberdade de locomoção",
+      "d": "Proteção contra prisão, detenção ou exílio arbitrários"
+    },
+    "explanation": "O artigo 9º da DUDH estabelece que ninguém será arbitrariamente preso, detido ou exilado.",
+    "context": "A audiência justa (artigo 10) e a presunção de inocência (artigo 11) se aplicam quando há acusação ou julgamento; aqui o problema é a própria detenção, sem base legal nem controle. A liberdade de locomoção (artigo 13) trata de deslocamento e residência, não de estar sob custódia.",
+    "evidence": [
+      "O artigo 9 da DUDH diz: \"No one shall be subjected to arbitrary arrest, detention or exile.\"",
+      "Artigo 9: \"Ninguém será arbitrariamente preso, detido ou exilado.\"",
+      "O Comitê afirma que arbitrariedade \"não deve ser equiparada a 'contrária à lei'\" e inclui elementos de injustiça, imprevisibilidade e falta de devido processo."
+    ]
+  },
+  "rt-06": {
+    "prompt": "Em uma disputa por uma propriedade, o caso de uma viúva é julgado por um juiz que é irmão da outra parte. A audiência acontece a portas fechadas e ninguém explica o motivo a ela. Qual direito está em jogo?",
+    "options": {
+      "a": "Direito a uma audiência justa e pública por um tribunal imparcial",
+      "b": "Direito a um recurso efetivo",
+      "c": "Direito à presunção de inocência",
+      "d": "Direito à igualdade perante a lei"
+    },
+    "explanation": "O artigo 10 da DUDH dá a todo ser humano o direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial.",
+    "context": "Um tribunal chegou a analisar o caso, então o artigo 8 (acesso a um remédio) não é a questão principal, e o artigo 11 se aplica apenas a acusações criminais. O artigo 7 trata da aplicação igual da lei; os defeitos aqui são um juiz parcial e uma audiência fechada.",
+    "evidence": [
+      "O artigo 10 da DUDH diz: \"Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal ...\"",
+      "Artigo 10: \"Todo ser humano tem direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial ...\"",
+      "O Comitê afirma que, em um litígio, as pessoas têm direito a uma audiência justa e pública perante um \"tribunal competente, independente e imparcial estabelecido por lei\"."
+    ]
+  },
+  "rt-07": {
+    "prompt": "Um tribunal recebe a pontuação de \"alto risco\" de um algoritmo sobre um réu e a trata como prova de culpa. O juiz diz que ele é quem precisa provar que não cometeu a infração, e nenhuma prova contra ele é apresentada. Qual direito está em jogo?",
+    "options": {
+      "a": "Direito à liberdade de pensamento e de opinião",
+      "b": "Direito a uma audiência justa e pública",
+      "c": "Direito à presunção de inocência até que a culpa seja provada",
+      "d": "Direito à igualdade perante a lei"
+    },
+    "explanation": "O artigo 11 da DUDH diz que todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que sua culpabilidade seja provada de acordo com a lei, em julgamento público com todas as garantias de defesa.",
+    "context": "A audiência justa (artigo 10) é um direito próximo, mas a inversão do ônus da prova é a essência da presunção de inocência do artigo 11. A pontuação algorítmica de risco preocupa porque ferramentas opacas podem transferir silenciosamente o ônus para o réu.",
+    "evidence": [
+      "O artigo 11 da DUDH diz que quem é acusado de um crime \"has the right to be presumed innocent until proved guilty according to law in a public trial ...\"",
+      "Artigo 11: \"Todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que a sua culpabilidade tenha sido provada de acordo com a lei ...\"",
+      "O Comitê afirma que a pessoa acusada de um crime se presume inocente e que o ônus da prova cabe à acusação, e ninguém é considerado culpado até que a culpa seja provada de acordo com a lei."
+    ]
+  },
+  "rt-08": {
+    "prompt": "Um orientador escolar lê em segredo as mensagens privadas e o diário de um aluno e depois conta aos pais a orientação sexual dele, sem consentimento. Qual direito está em jogo?",
+    "options": {
+      "a": "Direito à educação",
+      "b": "Proteção da vida privada, do lar e da correspondência",
+      "c": "Direito à liberdade de opinião e de expressão",
+      "d": "Direito à liberdade de pensamento, consciência e religião"
+    },
+    "explanation": "O artigo 12 da DUDH protege todos contra interferências arbitrárias na vida privada, na família, no lar ou na correspondência, e contra ataques à honra e à reputação.",
+    "context": "A expressão (artigo 19) e a consciência (artigo 18) dizem respeito ao que a pessoa pode dizer ou acreditar, e a educação (artigo 26) não foi negada. O que foi violado foi a privacidade das mensagens e da vida pessoal do aluno, e a revelação também o expôs a danos reais.",
+    "evidence": [
+      "O artigo 12 da DUDH diz: \"No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence ...\"",
+      "Artigo 12: \"Ninguém será sujeito a interferências na sua vida privada, na sua família, no seu lar ou na sua correspondência, nem a ataques à sua honra e reputação.\"",
+      "O Comitê afirma que o artigo 17 protege contra interferências \"arbitrárias ou ilegais\" na vida privada, família, lar ou correspondência, e que até a interferência legal deve ser razoável."
+    ]
+  },
+  "tl-01": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "Sirimavo Bandaranaike torna-se a primeira mulher primeira-ministra do mundo, no Ceilão (Sri Lanka)",
+      "b": "A primeira Convenção dos Direitos da Mulher é realizada em Seneca Falls, Nova York",
+      "c": "Mulheres votam e se candidatam pela primeira vez nas eleições municipais da Arábia Saudita",
+      "d": "A Nova Zelândia torna-se o primeiro país autogovernado a conceder o voto a todas as mulheres adultas"
+    },
+    "explanation": "A ordem correta é Seneca Falls (1848), voto feminino na Nova Zelândia (1893), Bandaranaike como primeira-ministra (1960) e mulheres sauditas votando (2015).",
+    "context": "A lei neozelandesa de 1893 não permitia que mulheres se candidatassem ao Parlamento, o que só veio em 1919. Sirimavo Bandaranaike assumiu o cargo depois que seu marido, o primeiro-ministro S. W. R. D. Bandaranaike, foi assassinado. As mulheres sauditas também conquistaram cadeiras na votação de 2015, algo inédito no reino.",
+    "evidence": [
+      "Confirma que a convenção de Seneca Falls ocorreu em 19 e 20 de julho de 1848.",
+      "Lista a Nova Zelândia em 1893 como o primeiro país autogovernado a conceder voto a todas as mulheres adultas.",
+      "Confirma que ela se tornou primeira-ministra do Ceilão em 1960, a primeira mulher do mundo no cargo.",
+      "Confirma que as mulheres sauditas votaram e concorreram pela primeira vez em eleições municipais em 12 de dezembro de 2015."
+    ]
+  },
+  "tl-02": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "A Lei Áurea abole a escravidão no Brasil, o último país das Américas a fazê-lo",
+      "b": "A Suprema Corte dos EUA decide que a segregação racial nas escolas públicas é inconstitucional",
+      "c": "O Haiti declara independência após a única revolta de escravizados bem-sucedida em larga escala da história",
+      "d": "O presidente Lincoln emite a Proclamação de Emancipação"
+    },
+    "explanation": "A ordem correta é independência do Haiti (1804), Proclamação de Emancipação (1863), Lei Áurea (1888) e Brown v. Board of Education (1954).",
+    "context": "A independência do Haiti em 1804 criou a primeira república liderada por pessoas negras e a primeira nação fundada por ex-escravizados. O Brasil recebeu mais africanos escravizados do que qualquer outro país das Américas e aboliu a escravidão 25 anos após a Proclamação de Emancipação. Brown v. Board derrubou a doutrina do 'separados mas iguais' nas escolas.",
+    "evidence": [
+      "Confirma que Dessalines proclamou a independência do Haiti em 1º de janeiro de 1804.",
+      "Confirma que a proclamação é datada de 1º de janeiro de 1863.",
+      "Confirma que a Lei Áurea foi sancionada pela princesa Isabel em 13 de maio de 1888.",
+      "Confirma que a decisão unânime ocorreu em 17 de maio de 1954."
+    ]
+  },
+  "tl-03": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "A Suprema Corte da Austrália reconhece o título nativo no caso Mabo, rejeitando a ideia de terra nullius",
+      "b": "Chefes maori e a Coroa britânica assinam o Tratado de Waitangi",
+      "c": "A Assembleia Geral da ONU adota a Declaração sobre os Direitos dos Povos Indígenas",
+      "d": "O Canadá consolida suas leis coloniais na Lei Indígena (Indian Act), voltada à assimilação das Primeiras Nações"
+    },
+    "explanation": "A ordem correta é Tratado de Waitangi (1840), Indian Act (1876), decisão Mabo (1992) e UNDRIP (2007).",
+    "context": "O Tratado de Waitangi existe em versões em inglês e maori com significados diferentes, motivo de disputa até hoje. Eddie Mabo, ilhéu do Estreito de Torres, morreu cinco meses antes de a Suprema Corte decidir a seu favor. A UNDRIP foi aprovada com 144 votos a favor e 4 contra.",
+    "evidence": [
+      "Confirma que o Tratado foi assinado em 6 de fevereiro de 1840.",
+      "Confirma que a Lei foi introduzida pela primeira vez em 1876.",
+      "Confirma que a decisão da Suprema Corte foi proferida em 3 de junho de 1992.",
+      "Confirma que a UNDRIP foi adotada em 13 de setembro de 2007."
+    ]
+  },
+  "tl-04": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "A Assembleia Nacional francesa adota a Declaração dos Direitos do Homem e do Cidadão",
+      "b": "A 19ª Emenda é ratificada, proibindo os EUA de negar o voto por motivo de sexo",
+      "c": "O rei João concorda com a Magna Carta em Runnymede, limitando o poder real",
+      "d": "A Constituição da Índia entra em vigor, tornando a Índia uma república"
+    },
+    "explanation": "A ordem correta é Magna Carta (1215), Declaração dos Direitos do Homem (1789), 19ª Emenda dos EUA (1920) e Constituição da Índia (1950).",
+    "context": "A Magna Carta foi anulada pelo papa em poucas semanas, mas o princípio de que os governantes estão sujeitos à lei perdurou. A 19ª Emenda foi ratificada em agosto de 1920, embora muitas mulheres negras e outros eleitores não brancos tenham continuado afastados das urnas por décadas por leis e práticas estaduais. A Constituição indiana entrou em vigor em 26 de janeiro, hoje celebrado como Dia da República.",
+    "evidence": [
+      "Confirma que a Magna Carta foi emitida em 1215.",
+      "Confirma que a Declaração foi aprovada pela Assembleia Nacional em agosto de 1789.",
+      "Confirma que a Constituição entrou em vigor em 26 de janeiro de 1950.",
+      "Descreve a 19ª Emenda, ratificada em agosto de 1920, que proíbe negar o voto por motivo de sexo."
+    ]
+  },
+  "tl-05": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "Alexander Fleming descobre a penicilina, o primeiro antibiótico amplamente usado",
+      "b": "Charpentier e Doudna publicam o método das 'tesouras genéticas' CRISPR-Cas9",
+      "c": "Edward Jenner aplica a primeira vacina bem-sucedida contra a varíola",
+      "d": "A Organização Mundial da Saúde declara a varíola erradicada"
+    },
+    "explanation": "A ordem correta é vacina de Jenner (1796), penicilina de Fleming (1928), erradicação da varíola (1980) e CRISPR-Cas9 (2012).",
+    "context": "A varíola é a única doença humana já erradicada; ela matou centenas de milhões de pessoas antes de uma campanha global de vacinação acabar com ela. Charpentier e Doudna receberam o Nobel de Química de 2020, o primeiro Nobel científico concedido apenas a duas mulheres.",
+    "evidence": [
+      "Confirma que Jenner aplicou a primeira vacina bem-sucedida contra a varíola em 14 de maio de 1796.",
+      "Confirma que Fleming descobriu a penicilina em 1928.",
+      "Confirma que a OMS declarou a varíola erradicada em 8 de maio de 1980.",
+      "Confirma que Doudna e Charpentier publicaram suas descobertas sobre CRISPR/Cas9 em 2012."
+    ]
+  },
+  "tl-06": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "A primeira mensagem da ARPANET é enviada entre computadores da UCLA e de Stanford",
+      "b": "Samuel Morse envia 'What hath God wrought' de Washington a Baltimore pelo telégrafo elétrico",
+      "c": "O CERN coloca o software da World Wide Web em domínio público, livre para qualquer pessoa usar",
+      "d": "Alexander Graham Bell obtém a patente americana do telefone"
+    },
+    "explanation": "A ordem correta é a mensagem de Morse pelo telégrafo (1844), a patente do telefone de Bell (1876), a primeira mensagem da ARPANET (1969) e a liberação do software da Web pelo CERN ao público (1993).",
+    "context": "A primeira mensagem da ARPANET deveria ser 'LOGIN', mas o sistema travou após 'LO'. A decisão do CERN em 1993 fez com que ninguém precisasse pagar para usar o software básico da Web, o que ajudou a espalhá-la pelo mundo.",
+    "evidence": [
+      "Confirma que a primeira mensagem Washington-Baltimore foi enviada em 24 de maio de 1844.",
+      "Confirma que Bell solicitou a patente do telefone em 1876 (14 de fevereiro).",
+      "Confirma que dois computadores se conectaram em 29 de outubro de 1969.",
+      "Afirma que em 30 de abril de 1993 o CERN colocou o software da World Wide Web em domínio público."
+    ]
+  },
+  "tl-07": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "A Cúpula da Terra, no Rio, abre para assinatura a Convenção sobre Diversidade Biológica e a convenção da ONU sobre o clima",
+      "b": "O Congresso dos EUA cria Yellowstone, o primeiro parque nacional do mundo",
+      "c": "Quase 200 países adotam o Acordo de Paris sobre mudança climática",
+      "d": "Rachel Carson publica Primavera Silenciosa, expondo os perigos dos pesticidas"
+    },
+    "explanation": "A ordem correta é Yellowstone (1872), Primavera Silenciosa (1962), Cúpula da Terra no Rio (1992) e Acordo de Paris (2015).",
+    "context": "Yellowstone é amplamente descrito como o primeiro parque nacional do mundo. A Conferência da ONU sobre Meio Ambiente e Desenvolvimento de 1992, no Rio de Janeiro, abriu para assinatura as convenções sobre clima e biodiversidade.",
+    "evidence": [
+      "Confirma que o Congresso criou o Parque Nacional de Yellowstone em 1872.",
+      "Confirma que Primavera Silenciosa foi publicado em 27 de setembro de 1962.",
+      "Descreve a Cúpula da Terra de 1992 no Rio de Janeiro, em que as convenções sobre mudança do clima e biodiversidade foram abertas para assinatura.",
+      "Confirma que o Acordo de Paris foi adotado em 12 de dezembro de 2015."
+    ]
+  },
+  "tl-08": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "O presidente Bush sanciona a Lei dos Americanos com Deficiência (ADA)",
+      "b": "Lincoln assina a lei que permite à Columbia Institution for the Deaf conceder diplomas universitários, precursora da Universidade Gallaudet",
+      "c": "A Assembleia Geral da ONU adota a Convenção sobre os Direitos das Pessoas com Deficiência",
+      "d": "A Assembleia Geral da ONU proclama a Declaração dos Direitos das Pessoas com Deficiência"
+    },
+    "explanation": "A ordem correta é a lei de Gallaudet sobre diplomas (1864), a Declaração da ONU sobre os Direitos das Pessoas com Deficiência (1975), a ADA (1990) e a convenção da ONU sobre os direitos das pessoas com deficiência (2006).",
+    "context": "A Declaração de 1975 não tinha força jurídica obrigatória. A Convenção sobre os Direitos das Pessoas com Deficiência (CDPD) de 2006 tem, para os Estados que a ratificam, e costuma ser descrita como o primeiro grande tratado de direitos humanos do século XXI.",
+    "evidence": [
+      "Confirma que Lincoln assinou a lei em 1864.",
+      "Texto da Declaração proclamada pela resolução 3447 (XXX) da Assembleia Geral, de 9 de dezembro de 1975.",
+      "Confirma que a ADA foi sancionada em 26 de julho de 1990.",
+      "Confirma que a CDPD foi adotada em 13 de dezembro de 2006."
+    ]
+  },
+  "rt-09": {
+    "prompt": "Uma pessoa é ameaçada abertamente de prisão e violência em seu país por causa de sua orientação sexual e foge para um país vizinho, onde pede proteção às autoridades. Qual direito está mais diretamente em jogo?",
+    "options": {
+      "a": "Liberdade de locomoção e residência dentro do próprio país",
+      "b": "Direito a uma nacionalidade",
+      "c": "Direito de procurar e gozar asilo em outros países em caso de perseguição",
+      "d": "Direito à vida, à liberdade e à segurança pessoal"
+    },
+    "explanation": "O artigo 14 da DUDH garante a todo ser humano o direito de procurar e de gozar asilo em outros países em caso de perseguição. A pessoa saiu para pedir proteção a outro Estado.",
+    "context": "O artigo 13 trata de circular e residir dentro das fronteiras de um Estado e de sair ou regressar a um país, não de proteção no exterior. O artigo 15 trata da nacionalidade, que a pessoa não perdeu. O artigo 3 se relaciona ao perigo de que ela fugiu, mas o ato específico aqui é buscar refúgio em outro país.",
+    "evidence": [
+      "O artigo 14 da DUDH diz: \"Everyone has the right to seek and to enjoy in other countries asylum from persecution.\"",
+      "Artigo 14: \"Todo ser humano, vítima de perseguição, tem o direito de procurar e de gozar asilo em outros países.\""
+    ]
+  },
+  "rt-10": {
+    "prompt": "Um governo aprova um decreto declarando que uma minoria étnica, cujas famílias vivem no país há gerações, deixa de ser considerada cidadã. Da noite para o dia, milhares de pessoas ficam sem passaporte, não conseguem matricular os filhos na escola nem registrar um nascimento e não pertencem a Estado algum. Qual direito está mais diretamente em jogo?",
+    "options": {
+      "a": "Direito a uma nacionalidade",
+      "b": "Liberdade de locomoção e residência",
+      "c": "Direito de contrair matrimônio e fundar uma família",
+      "d": "Direito de tomar parte no governo do próprio país"
+    },
+    "explanation": "O artigo 15 da DUDH diz que todo ser humano tem direito a uma nacionalidade e que ninguém pode ser arbitrariamente privado dela. O decreto retira a cidadania de um grupo de forma arbitrária e o deixa apátrida.",
+    "context": "Perder a participação política (artigo 21), a liberdade de locomoção (artigo 13) e o acesso a serviços são consequências da apatridia, mas a violação de origem é a privação arbitrária da própria nacionalidade. O artigo 16 não é o problema, pois nenhum casamento está sendo impedido.",
+    "evidence": [
+      "O artigo 15 da DUDH diz: \"Everyone has the right to a nationality. No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.\"",
+      "Artigo 15: \"Todo ser humano tem direito a uma nacionalidade. Ninguém será arbitrariamente privado de sua nacionalidade, nem do direito de mudar de nacionalidade.\""
+    ]
+  },
+  "rt-11": {
+    "prompt": "Uma comunidade indígena possui título coletivo legalmente reconhecido da floresta onde seus membros vivem e plantam. O governo cancela o título sem aviso, sem indenização e sem qualquer audiência, e entrega a terra a uma empresa privada. Qual direito está mais diretamente em jogo?",
+    "options": {
+      "a": "Direito a um padrão de vida adequado",
+      "b": "Liberdade de locomoção e residência",
+      "c": "Direito de tomar parte no governo do próprio país",
+      "d": "Direito à propriedade, só ou em sociedade com outros"
+    },
+    "explanation": "O artigo 17 da DUDH garante o direito à propriedade, só ou em sociedade com outros, e diz que ninguém será arbitrariamente privado de sua propriedade. Um título coletivo de uma comunidade se encaixa na propriedade em sociedade com outros.",
+    "context": "O artigo 25 (padrão de vida adequado) é afetado pela perda da terra, mas o dano direto é a retirada arbitrária de um título de propriedade existente. O artigo 13 trata de locomoção e residência, não de propriedade, e o artigo 21 trata da participação no governo, que não é o assunto do cancelamento do título.",
+    "evidence": [
+      "O artigo 17 da DUDH diz: \"Everyone has the right to own property alone as well as in association with others. No one shall be arbitrarily deprived of his property.\"",
+      "Artigo 17: \"Todo ser humano tem direito à propriedade, só ou em sociedade com outros. Ninguém será arbitrariamente privado de sua propriedade.\""
+    ]
+  },
+  "rt-12": {
+    "prompt": "Moradores de uma cidade se reúnem em uma praça pública, sem armas, para protestar contra uma fábrica que polui o rio. A polícia declara a reunião ilegal e a dispersa, e o grupo organizador é proibido de voltar a se reunir. Qual direito está mais diretamente em jogo?",
+    "options": {
+      "a": "Direito à liberdade de opinião e expressão",
+      "b": "Direito à liberdade de reunião e associação pacífica",
+      "c": "Direito de tomar parte no governo do próprio país",
+      "d": "Direito à liberdade de pensamento, consciência e religião"
+    },
+    "explanation": "O artigo 20 da DUDH garante o direito à liberdade de reunião e associação pacífica. Os moradores se reuniram pacificamente, e tanto a dispersão quanto a proibição do grupo interferem nesse direito.",
+    "context": "O artigo 19 protege ter e compartilhar opiniões, e a mensagem dos manifestantes está coberta por ele, mas o que foi reprimido é a reunião pacífica e o próprio grupo. O artigo 21 trata da participação no governo e nas eleições, e o artigo 18 trata de crença e religião, e nenhum deles é o centro deste caso.",
+    "evidence": [
+      "O artigo 20 da DUDH diz: \"Everyone has the right to freedom of peaceful assembly and association.\"",
+      "Artigo 20: \"Todo ser humano tem direito à liberdade de reunião e associação pacífica.\""
+    ]
+  },
+  "rt-13": {
+    "prompt": "Um aplicativo de entregas distribui corridas por meio de um algoritmo que premia quem permanece conectado. Os entregadores recebem um valor justo por entrega, mas o sistema pune quem se desconecta, e por isso muitos trabalham 14 horas por dia, sete dias por semana, sem férias remuneradas. Qual direito está mais diretamente em jogo?",
+    "options": {
+      "a": "Direito a uma remuneração justa e satisfatória",
+      "b": "Direito de organizar sindicatos e neles ingressar",
+      "c": "Direito a repouso e lazer, inclusive limitação razoável das horas de trabalho e férias remuneradas",
+      "d": "Direito a um padrão de vida capaz de assegurar saúde e bem-estar"
+    },
+    "explanation": "O artigo 24 da DUDH garante o direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas. O problema não é o valor por entrega, mas a falta de limite de horas e de qualquer descanso ou licença remunerada.",
+    "context": "O artigo 23 trata de remuneração, condições de trabalho e sindicatos, e o cenário diz que o valor por entrega é justo e que nenhum sindicato é impedido. O artigo 25 (padrão de vida adequado) pode ser afetado pelo esgotamento, mas a garantia específica sobre jornada e férias remuneradas está no artigo 24.",
+    "evidence": [
+      "O artigo 24 da DUDH diz: \"Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.\"",
+      "Artigo 24: \"Todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas.\""
+    ]
+  },
+  "rt-14": {
+    "prompt": "Uma escola pública de ensino fundamental se recusa a matricular uma criança de sete anos que usa cadeira de rodas, alegando que o prédio não tem rampa e que a família deveria manter a criança em casa. Qual direito está mais diretamente em jogo?",
+    "options": {
+      "a": "Direito à instrução",
+      "b": "Liberdade de locomoção e residência",
+      "c": "Direito a um padrão de vida capaz de assegurar saúde e bem-estar",
+      "d": "Direito à liberdade de opinião e expressão"
+    },
+    "explanation": "O artigo 26 da DUDH dá a todo ser humano o direito à instrução, que deve ser gratuita pelo menos nos graus elementares e fundamentais, sendo a instrução elementar obrigatória. Recusar a matrícula por falta de rampa nega a essa criança o acesso à escola.",
+    "context": "O artigo 13 trata de locomoção e residência dentro de um Estado, não do acesso a uma escola. O artigo 25 trata de saúde, habitação e seguridade social, e o artigo 19 trata de expressar e receber informações, mas o erro específico aqui é a exclusão do ensino fundamental, protegida pelo artigo 26.",
+    "evidence": [
+      "O artigo 26 da DUDH diz: \"Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory.\"",
+      "Artigo 26: \"Todo ser humano tem direito à instrução. A instrução será gratuita, pelo menos nos graus elementares e fundamentais. A instrução elementar será obrigatória.\""
+    ]
+  },
+  "tl-10": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "A Lei de Padrões Justos de Trabalho dos EUA fixa um salário mínimo e proíbe o trabalho infantil abusivo",
+      "b": "Um complexo de confecções desaba em Rana Plaza, perto de Daca, em Bangladesh, matando mais de 1.100 trabalhadores e levando a novos acordos de segurança",
+      "c": "Mulheres e meninas da fábrica de fósforos Bryant & May, em Londres, entram em greve por salários e condições perigosas",
+      "d": "A Organização Internacional do Trabalho é fundada pelo Tratado de Versalhes"
+    },
+    "explanation": "A ordem correta é a greve das fosforeiras (1888), a fundação da OIT (1919), a Lei de Padrões Justos de Trabalho (1938) e o desabamento de Rana Plaza (2013).",
+    "context": "A greve das fosforeiras conquistou melhorias na fábrica e é lembrada como marco da organização de mulheres trabalhadoras sem qualificação. A OIT é hoje uma agência da ONU que reúne governos, empregadores e trabalhadores. A lei americana de 1938 cobria originalmente apenas cerca de um quinto da força de trabalho. Depois de Rana Plaza, marcas e sindicatos assinaram um acordo de segurança de edifícios para a indústria de confecções de Bangladesh.",
+    "evidence": [
+      "Confirma que a greve na fábrica Bryant & May, em Bow, no leste de Londres, ocorreu em 1888.",
+      "Afirma que a OIT foi fundada em 1919 sob o Tratado de Versalhes.",
+      "Confirma que o presidente Roosevelt sancionou a FLSA em 25 de junho de 1938, fixando um salário mínimo e proibindo o trabalho infantil abusivo.",
+      "Confirma que a fábrica de Rana Plaza desabou em 24 de abril de 2013, perto de Daca, matando mais de 1.100 pessoas, a maioria trabalhadores de confecções."
+    ]
+  },
+  "tl-11": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "Líderes de 29 nações da Ásia e da África reúnem-se na Conferência de Bandung, na Indonésia",
+      "b": "Mansa Musa, governante do Império do Mali, faz sua peregrinação a Meca",
+      "c": "O Canadá cria Nunavut, um território em que os inuítes são grande maioria",
+      "d": "Forças etíopes lideradas pelo imperador Menelik II derrotam um exército italiano invasor na Batalha de Adwa"
+    },
+    "explanation": "A ordem correta é a peregrinação de Mansa Musa (1324), a Batalha de Adwa (1896), a Conferência de Bandung (1955) e a criação de Nunavut (1999).",
+    "context": "A viagem de Mansa Musa espalhou a fama do ouro do Mali pelo mundo islâmico e pela Europa. A vitória da Etiópia em Adwa foi a primeira derrota esmagadora de um exército europeu por forças africanas na era colonial e manteve a Etiópia independente. Bandung reuniu nações recém-independentes e ainda colonizadas e ajudou a moldar o futuro Movimento Não Alinhado. Nunavut, que significa 'nossa terra' em inuktitut, nasceu de um acordo de reivindicação de terras dos inuítes.",
+    "evidence": [
+      "Data a peregrinação de Mansa Musa a Meca em 1324, o 17º ano de seu reinado.",
+      "Confirma que a Batalha de Adwa foi travada em 1º de março de 1896, quando forças etíopes sob Menelik II derrotaram o exército italiano.",
+      "Confirma que a Conferência Ásia-África reuniu-se em Bandung, na Indonésia, em abril de 1955, com representantes de 29 governos.",
+      "Confirma que Nunavut foi criado em 1º de abril de 1999, com a divisão dos Territórios do Noroeste, como pátria dos inuítes do Canadá."
+    ]
+  },
+  "tl-12": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "O Reino Unido lança o Serviço Nacional de Saúde (NHS), que oferece atendimento gratuito no ponto de uso",
+      "b": "Ignaz Semmelweis introduz a lavagem das mãos com cal clorada em uma maternidade de Viena para deter a febre puerperal",
+      "c": "A Declaração de Alma-Ata defende a atenção primária à saúde para todos, em uma conferência da OMS e do UNICEF na União Soviética",
+      "d": "Um menino de 14 anos em Toronto recebe a primeira injeção de insulina aplicada em um paciente com diabetes"
+    },
+    "explanation": "A ordem correta é a lavagem das mãos de Semmelweis (1847), a primeira dose de insulina (1922), a criação do NHS (1948) e a Declaração de Alma-Ata (1978).",
+    "context": "As descobertas de Semmelweis foram em grande parte rejeitadas em vida, e a teoria dos germes que as explicava veio depois. O primeiro paciente tratado com insulina, Leonard Thompson, foi atendido em janeiro de 1922, e o extrato foi refinado em poucas semanas. O NHS foi lançado pelo ministro da Saúde Aneurin Bevan em um hospital perto de Manchester. Alma-Ata fixou a ambição de 'Saúde para Todos' e colocou a atenção primária no centro da política global de saúde.",
+    "evidence": [
+      "Data a exigência de Semmelweis de lavar as mãos com cal clorada em Viena em 1847.",
+      "Confirma que a primeira dose de insulina foi aplicada em 11 de janeiro de 1922 em Leonard Thompson, de 14 anos, no Toronto General Hospital.",
+      "Confirma que o NHS foi lançado em 5 de julho de 1948 por Aneurin Bevan no Park Hospital, perto de Manchester.",
+      "Confirma que a conferência ocorreu de 6 a 12 de setembro de 1978 em Alma-Ata, URSS, copatrocinada pela OMS e pelo UNICEF."
+    ]
+  },
+  "tl-13": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "O estado alemão de Hesse aprova o que é descrito como a primeira lei formal de proteção de dados do mundo",
+      "b": "A Lei de IA da União Europeia, um marco para toda a UE que regula a inteligência artificial por nível de risco, entra em vigor",
+      "c": "Dois advogados de Boston publicam 'The Right to Privacy' na Harvard Law Review, defendendo um direito legal de 'ser deixado em paz'",
+      "d": "A União Europeia adota a Diretiva 95/46/CE, um marco comum para proteger dados pessoais"
+    },
+    "explanation": "A ordem correta é 'The Right to Privacy' (1890), a lei de proteção de dados de Hesse (1970), a Diretiva de Proteção de Dados da UE (1995) e a Lei de IA da UE (2024).",
+    "context": "Samuel Warren e Louis Brandeis escreveram o artigo em parte como reação às câmeras instantâneas e aos jornais de fofoca. A lei de Hesse, de 1970, respondeu aos primeiros grandes sistemas de computadores do governo. A Diretiva de 1995 foi depois substituída pelo Regulamento Geral de Proteção de Dados. A Lei de IA proíbe algumas práticas, como a pontuação social por governos, e impõe regras mais rígidas a sistemas de alto risco.",
+    "evidence": [
+      "Confirma que Warren e Brandeis publicaram 'The Right to Privacy' na Harvard Law Review em 15 de dezembro de 1890.",
+      "Informa que a Lei de Proteção de Dados de Hesse foi aprovada em 7 de outubro de 1970 e a descreve como a primeira lei formal de proteção de dados do mundo.",
+      "Confirma que a Diretiva sobre a proteção das pessoas no tratamento de dados pessoais foi adotada em 24 de outubro de 1995.",
+      "Confirma que a Lei Europeia de IA entrou em vigor em 1º de agosto de 2024 como um marco baseado em risco."
+    ]
+  },
+  "tl-14": {
+    "prompt": "Coloque estes eventos em ordem, do mais antigo ao mais recente.",
+    "options": {
+      "a": "A Suprema Corte dos EUA derruba a lei do Texas que criminalizava a intimidade entre pessoas do mesmo sexo e anula Bowers v. Hardwick",
+      "b": "A Lei de Delitos Sexuais descriminaliza parcialmente as relações entre homens na Inglaterra e no País de Gales",
+      "c": "A Suprema Corte da Índia decide que a Seção 377 é inconstitucional no que diz respeito à conduta consensual entre adultos do mesmo sexo",
+      "d": "A África do Sul adota uma constituição que proíbe expressamente a discriminação injusta por orientação sexual"
+    },
+    "explanation": "A ordem correta é a Lei de Delitos Sexuais (1967), a constituição sul-africana (1996), Lawrence v. Texas (2003) e a decisão indiana sobre a Seção 377 (2018).",
+    "context": "A lei de 1967 era limitada: valia apenas em privado, fixava idade de consentimento maior para homens e não cobria a Escócia nem a Irlanda do Norte. Uma reportagem de 1996 observou que o texto sul-africano era considerado único na época. Lawrence v. Texas foi decidido por 6 a 3. A decisão indiana de 2018 foi unânime e reverteu a decisão anterior do próprio tribunal que havia mantido a lei.",
+    "evidence": [
+      "Confirma que a lei recebeu sanção real em 27 de julho de 1967 e descriminalizou parcialmente as relações entre homens na Inglaterra e no País de Gales.",
+      "Informa que a nova constituição sul-africana, adotada em maio de 1996, proíbe diretamente a discriminação por orientação sexual.",
+      "Confirma que a Suprema Corte decidiu Lawrence v. Texas em 26 de junho de 2003, derrubando a lei de sodomia do Texas e anulando Bowers v. Hardwick.",
+      "Confirma que a Suprema Corte da Índia considerou a Seção 377 inconstitucional para a conduta consensual entre pessoas do mesmo sexo em 6 de setembro de 2018."
+    ]
+  }
+}
