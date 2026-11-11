@@ -73,7 +73,12 @@ export function pickDaily(
 
   const candidatesOf = (type: ChallengeType): Challenge[] => {
     const list = pool
-      .filter((c) => c.type === type && c.verification === "verified")
+      .filter(
+        (c) =>
+          c.type === type &&
+          c.verification === "verified" &&
+          (!c.availableFrom || c.availableFrom <= dateKey),
+      )
       .sort((a, b) => a.id.localeCompare(b.id));
     if (list.length === 0) {
       throw new Error(`No verified challenges available for type "${type}"`);
