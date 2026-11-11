@@ -3840,5 +3840,928 @@
         "evidence": "Confirms the Supreme Court of India held Section 377 unconstitutional for consensual same-sex conduct on 6 September 2018."
       }
     ]
+  },
+  {
+    "id": "demo-h-13",
+    "type": "headline",
+    "category": "indigenous",
+    "prompt": "In September 2007 the UN General Assembly adopted the Declaration on the Rights of Indigenous Peoples. Which of these countries was one of the four that voted against it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brazil",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Mexico",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Australia",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Norway",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Australia was one of four countries, with Canada, New Zealand and the United States, that voted against the Declaration when the General Assembly adopted it on 13 September 2007, with well over 140 states in favour and 11 abstentions.",
+    "context": "The Declaration is not legally binding but sets out minimum standards for the rights of Indigenous peoples, including self-determination, culture and land. All four countries that voted against later reversed their positions and expressed support for it.",
+    "difficulty": 3,
+    "region": "Oceania",
+    "entities": [
+      "UN Declaration on the Rights of Indigenous Peoples",
+      "United Nations General Assembly"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "United Nations Declaration on the Rights of Indigenous Peoples",
+        "publisher": "UN Department of Economic and Social Affairs",
+        "url": "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "States the General Assembly adopted the Declaration on 13 September 2007, that Australia, Canada, New Zealand and the United States voted against, and that all four later reversed their position."
+      },
+      {
+        "title": "The UN General Assembly adopts the Declaration on the Rights of Indigenous Peoples",
+        "publisher": "American Society of International Law",
+        "url": "https://asil.org/node/228",
+        "type": "academic",
+        "accessedAt": "2026-11-11",
+        "evidence": "Confirms the 13 September 2007 adoption, with 4 votes against and 11 abstentions, and names Australia, Canada, New Zealand and the United States as the four States voting against."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-h-14",
+    "type": "headline",
+    "category": "race",
+    "prompt": "The UN's International Day for the Elimination of Racial Discrimination, observed every 21 March, commemorates a 1960 massacre of anti-apartheid protesters in which South African township?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Soweto",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Sharpeville",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Langa",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Bisho",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "On 21 March 1960 police opened fire on a peaceful protest against the apartheid pass laws in Sharpeville, killing 69 people; the UN General Assembly later chose the date for its annual day against racial discrimination.",
+    "context": "The General Assembly set the observance in 1966 (resolution 2142 (XXI)).",
+    "difficulty": 2,
+    "region": "Africa",
+    "entities": [
+      "Sharpeville massacre",
+      "United Nations"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "International Day for the Elimination of Racial Discrimination",
+        "publisher": "United Nations",
+        "url": "https://www.un.org/en/observances/end-racism-day",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "States the day marks the Sharpeville massacre of 21 March 1960, when police opened fire on a peaceful anti-pass-law protest and killed 69 people, and cites General Assembly resolution 2142 (XXI)."
+      },
+      {
+        "title": "International Day for the Elimination of Racial Discrimination",
+        "publisher": "UNESCO",
+        "url": "https://en.unesco.org/commemorations/nodiscriminationday",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "Confirms the General Assembly set 21 March in 1966 to honour the 1960 Sharpeville events in South Africa, where police killed 69 people protesting the apartheid pass laws."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-h-15",
+    "type": "headline",
+    "category": "environment",
+    "prompt": "In October 2013, countries adopted a global treaty on mercury in Kumamoto, Japan. Which Japanese city, scarred by an industrial pollution disaster, gave the treaty its name?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minamata",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Yokkaichi",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Nagasaki",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Hiroshima",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Minamata Convention on Mercury was adopted and opened for signature at a diplomatic conference in Kumamoto on 10-11 October 2013; its name reflects the wish that the health and environmental disaster of Minamata disease never be repeated.",
+    "context": "The treaty regulates mercury across its life cycle, including ending primary mercury mining and phasing out mercury in some products and industrial processes. It entered into force on 16 August 2017 after the 50th ratification.",
+    "difficulty": 3,
+    "region": "Asia",
+    "entities": [
+      "Minamata Convention on Mercury",
+      "Minamata"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Minamata Convention on Mercury",
+        "publisher": "National Institute for Minamata Disease (Japan)",
+        "url": "https://nimd.env.go.jp/archives/english/minamata_disease_in_depth/minamata_convention_on_mercury",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "Says the treaty was named to express the wish that the Minamata health and environmental disaster never recur, and that it was adopted at the October 2013 Diplomatic Conference in Kumamoto and Minamata."
+      },
+      {
+        "title": "History of the Minamata Convention",
+        "publisher": "Minamata Convention on Mercury Secretariat",
+        "url": "https://minamataconvention.org/en/about/history",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "Confirms the text was adopted and opened for signature in Kumamoto, Japan, on 10-11 October 2013, and entered into force on 16 August 2017."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-h-16",
+    "type": "headline",
+    "category": "education",
+    "prompt": "International Literacy Day, marked every 8 September, traces back to a 1965 UNESCO World Congress of Ministers of Education on the Eradication of Illiteracy. In which city was it held?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cairo",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Paris",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "New Delhi",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Tehran",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "UNESCO's World Congress of Ministers of Education on the Eradication of Illiteracy met in Tehran, Iran, from 8 to 19 September 1965, with representatives of 88 countries, and 8 September became International Literacy Day.",
+    "context": "The congress called for literacy programmes to be built into economic and social development plans and helped launch UNESCO's Experimental World Literacy Programme. UNESCO formally proclaimed the day in 1966 and it was first observed in 1967.",
+    "difficulty": 2,
+    "region": "Asia",
+    "entities": [
+      "UNESCO",
+      "International Literacy Day"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Literacy, 1965-1967",
+        "publisher": "UNESCO",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000037480",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "Records that the World Congress of Ministers of Education on the Eradication of Illiteracy was held in Tehran from 8 to 19 September 1965 with delegates from 88 countries, and that 8 September became International Literacy Day."
+      },
+      {
+        "title": "Proclamation 3739 - International Literacy Day",
+        "publisher": "The American Presidency Project (UC Santa Barbara)",
+        "url": "https://www.presidency.ucsb.edu/documents/proclamation-3739-international-literacy-day",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "The 1966 US presidential proclamation says the World Congress of Ministers of Education met in Tehran, Iran, a year before 8 September 1966, calling it the turning point in the battle against illiteracy."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-h-17",
+    "type": "headline",
+    "category": "disability",
+    "prompt": "World Braille Day, observed by the UN on 4 January, honours Louis Braille, who was blinded in a childhood accident. At what age did he create the tactile reading and writing system that bears his name?",
+    "options": [
+      {
+        "id": "a",
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "18",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The UN says that at age 15 Louis Braille created the system that bears his name, after losing his sight as a child.",
+    "context": "Braille was born on 4 January 1809 in Coupvray, France, and was blinded in an accident at age three. The UN General Assembly adopted a resolution establishing World Braille Day on 17 December 2018, and the first official observance was in 2019. Sources differ on when exactly he began refining the system, which he worked on from about age 12.",
+    "difficulty": 2,
+    "region": "Europe",
+    "entities": [
+      "Louis Braille",
+      "Braille",
+      "World Braille Day"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "World Braille Day",
+        "publisher": "UN News",
+        "url": "https://news.un.org/en/story/2020/01/1054761",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "States that at age 15 Louis Braille created the system named after him, that 4 January is his birthday and he was born in 1809, and that the first official UN observance was in 2019."
+      },
+      {
+        "title": "Louis Braille: The Father of Literacy for the Blind",
+        "publisher": "National Federation of the Blind",
+        "url": "https://nfb.org/node/9796",
+        "type": "news",
+        "accessedAt": "2026-11-11",
+        "evidence": "Says Braille began refining the system around age 12 and had perfected it by age 15, and gives his birth date as 4 January 1809."
+      },
+      {
+        "title": "Braille, the inventor",
+        "publisher": "Musee Louis Braille",
+        "url": "https://museelouisbraille.com/en/braille-l-inventeur",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "Gives Braille's birth on 4 January 1809 in Coupvray and his blinding in an accident at age three."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-h-18",
+    "type": "headline",
+    "category": "gender",
+    "prompt": "In 1903, who became the first woman to win a Nobel Prize, sharing the Nobel Prize in Physics for research on radiation phenomena?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Marie Curie",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Lise Meitner",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Irene Joliot-Curie",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Bertha von Suttner",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Marie Curie received the 1903 Nobel Prize in Physics, shared with Pierre Curie and Henri Becquerel for their work on radiation phenomena, making her the first woman to receive a Nobel Prize.",
+    "context": "Curie, born in Warsaw, also won the 1911 Nobel Prize in Chemistry and was the first person ever to be awarded two Nobel Prizes.",
+    "difficulty": 1,
+    "region": "Europe",
+    "entities": [
+      "Marie Curie",
+      "Nobel Prize in Physics"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Marie Curie - Facts",
+        "publisher": "Nobel Prize Outreach",
+        "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "Lists Marie Curie as a 1903 Nobel Prize in Physics laureate for joint research on radiation phenomena, born in Warsaw in 1867, and the first person awarded two Nobel Prizes."
+      },
+      {
+        "title": "Marie Curie - Women Who Changed Science",
+        "publisher": "Nobel Prize Outreach",
+        "url": "https://www.nobelprize.org/womenwhochangedscience/stories/marie-curie",
+        "type": "primary",
+        "accessedAt": "2026-11-11",
+        "evidence": "States Marie Curie was the first woman to receive a Nobel Prize, in Physics in 1903, shared with Pierre Curie and Henri Becquerel."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-r-13",
+    "type": "real_or_fake",
+    "category": "politics",
+    "prompt": "Ghana gained independence from Britain on 6 March 1957.",
+    "options": [
+      {
+        "id": "real",
+        "text": "Real",
+        "isCorrect": true
+      },
+      {
+        "id": "fake",
+        "text": "Fake",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Real. The Gold Coast became the independent nation of Ghana on 6 March 1957, with Kwame Nkrumah as its first prime minister.",
+    "context": "Ghana's independence was an early milestone in the wave of decolonisation across Africa, and Nkrumah became a prominent advocate of African unity.",
+    "difficulty": 1,
+    "region": "Africa",
+    "entities": [
+      "Ghana",
+      "Kwame Nkrumah"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Africans Cheer Ghana Freedom: Parliament Meets (From our Files, 1957 report)",
+        "publisher": "The Christian Science Monitor",
+        "url": "https://csmonitor.com/World/Africa/2012/0306/From-our-Files-Africans-Cheer-Ghana-Freedom-Parliament-Meets",
+        "publishedAt": "2012-03-06",
+        "accessedAt": "2026-11-11",
+        "type": "news",
+        "evidence": "Reprints the Monitor's 6 March 1957 report on the former Gold Coast becoming independent Ghana under Prime Minister Kwame Nkrumah."
+      },
+      {
+        "title": "Gold Coast (Ghana) gains independence",
+        "publisher": "South African History Online",
+        "url": "https://www.sahistory.org.za/dated-event/gold-coast-ghana-gains-independence",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "States that the Gold Coast became independent as Ghana on 6 March 1957, from Britain, led by Kwame Nkrumah."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-r-15",
+    "type": "real_or_fake",
+    "category": "environment",
+    "prompt": "Bhutan's constitution requires that at least 60% of the country's land remain under forest cover.",
+    "options": [
+      {
+        "id": "real",
+        "text": "Real",
+        "isCorrect": true
+      },
+      {
+        "id": "fake",
+        "text": "Fake",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Real. Article 5 of Bhutan's Constitution commits the government to maintaining a minimum of 60% of the total land area under forest cover for all time.",
+    "context": "Bhutan is often cited as an unusual case of a quantitative environmental target written directly into a national constitution.",
+    "difficulty": 2,
+    "region": "Asia",
+    "entities": [
+      "Bhutan"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Bhutan country profile",
+        "publisher": "Convention on Biological Diversity (UN)",
+        "url": "https://www.cbd.int/countries/profile/?country=bt",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "States that the Constitution (Article 5) requires a minimum of 60% of Bhutan's total land area be maintained under forest cover for all time."
+      },
+      {
+        "title": "The Constitution of Bhutan: A Quantitative Environmental Standard",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/environmental-rights/constitution-of-bhutan-a-quantitative-environmental-standard/A2BD4626CC13A6E0F4C7AF2DC0FEE82A",
+        "publishedAt": "2019-05-09",
+        "accessedAt": "2026-11-11",
+        "type": "academic",
+        "evidence": "Academic chapter noting the constitution requires at least 60 per cent of the land mass under forest cover for all time."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-r-16",
+    "type": "real_or_fake",
+    "category": "education",
+    "prompt": "India's Right to Education Act guarantees free and compulsory education for all children up to age 18.",
+    "options": [
+      {
+        "id": "real",
+        "text": "Real",
+        "isCorrect": false
+      },
+      {
+        "id": "fake",
+        "text": "Fake",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Fake. The Act covers children aged six to fourteen. It came into force on 1 April 2010, together with Article 21-A of the Constitution, which made free education for that age group a Fundamental Right.",
+    "context": "Article 21-A was inserted by the Constitution (Eighty-sixth Amendment) Act, 2002; the 2009 Act set out how the right would be put into practice.",
+    "difficulty": 2,
+    "region": "Asia",
+    "entities": [
+      "India",
+      "Right to Education Act 2009"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Right to Education",
+        "publisher": "Department of School Education and Literacy, Government of India",
+        "url": "https://dsel.education.gov.in/rte",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "States the Act covers children aged six to fourteen and that it and Article 21-A took effect on 1 April 2010."
+      },
+      {
+        "title": "India: Right to education launched",
+        "publisher": "Child Rights International Network (CRIN)",
+        "url": "https://archive.crin.org/en/library/news-archive/india-right-education-launched.html",
+        "publishedAt": "2010-04-06",
+        "accessedAt": "2026-11-11",
+        "type": "news",
+        "evidence": "Reports the Act, in force from 1 April 2010, applies to children between the ages of six and 14."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-r-18",
+    "type": "real_or_fake",
+    "category": "disability",
+    "prompt": "The Marrakesh Treaty, which improves access to books for blind and print-disabled people, was adopted in Geneva in 2013.",
+    "options": [
+      {
+        "id": "real",
+        "text": "Real",
+        "isCorrect": false
+      },
+      {
+        "id": "fake",
+        "text": "Fake",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Fake. The Treaty was adopted in Marrakesh, Morocco, on 27 June 2013, by member states of the World Intellectual Property Organization (WIPO).",
+    "context": "The treaty requires copyright exceptions so that accessible-format copies can be made and shared across borders.",
+    "difficulty": 3,
+    "region": "Africa",
+    "entities": [
+      "Marrakesh Treaty",
+      "WIPO"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Marrakesh Treaty: summary",
+        "publisher": "World Intellectual Property Organization",
+        "url": "https://www.wipo.int/en/web/treaties/ip/marrakesh/summary_marrakesh",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "States the treaty was adopted on 27 June 2013 in Marrakesh and sets copyright limitations for blind, visually impaired and print-disabled people."
+      },
+      {
+        "title": "WIPO Treaty Adopted to Facilitate Access for the Blind, Visually Impaired, and Print Disabled",
+        "publisher": "U.S. Copyright Office",
+        "url": "https://copyright.gov/newsnet/2013/510.html",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Reports that WIPO member states adopted the treaty in Marrakesh, Morocco, on 27 June 2013."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-w-13",
+    "type": "who_am_i",
+    "category": "gender",
+    "prompt": "Who am I?",
+    "clues": [
+      "I was born in São Paulo in 1894 and studied biology at the Sorbonne in France.",
+      "I led the Brazilian Federation for Feminine Progress, which campaigned for women's right to vote, until 1942; the Constitution of 1934 guaranteed that vote.",
+      "I entered the Chamber of Deputies in 1936 as an alternate, and in 2001 Brazil's Senate created an annual diploma for women's rights that carries my name."
+    ],
+    "options": [
+      {
+        "id": "a",
+        "text": "Nísia Floresta",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Bertha Lutz",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Carlota Pereira de Queirós",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Maria Quitéria",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bertha Lutz (1894–1976) was the principal leader of Brazil's women's suffrage movement and a scientist who worked in botany and herpetology.",
+    "context": "Her group became the Brazilian Federation for Feminine Progress in 1922. She attended the 1975 International Women's Year conference in Mexico City and died in Rio de Janeiro in 1976. The Senate's Diploma Bertha Lutz honours people who stand out in defending women's rights.",
+    "difficulty": 3,
+    "region": "Latin America",
+    "entities": [
+      "Bertha Lutz",
+      "Brazilian Federation for Women's Progress"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Bertha Lutz",
+        "publisher": "Senado Federal (Brazil)",
+        "url": "https://www12.senado.leg.br/manualdecomunicacao/guia-legislativo/bertha-lutz",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Born in São Paulo in 1894; degree in biology at the Sorbonne; worked at the Museu Nacional; the Senate created the Diploma Bertha Lutz in 2001; died in 1976 in Rio de Janeiro."
+      },
+      {
+        "title": "Lutz, Bertha Maria Julia (1894–1976)",
+        "publisher": "Encyclopedia.com (Women in World History)",
+        "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/lutz-bertha-maria-julia-1894-1976",
+        "accessedAt": "2026-11-11",
+        "type": "encyclopedia",
+        "evidence": "Principal leader of Brazil's suffrage movement; licencié ès sciences from the Sorbonne in 1918; led the Federation for Feminine Progress (FBPF) until 1942; women's vote guaranteed by the 1934 Constitution; alternate deputy in late 1936; Mexico City conference in 1975."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-w-14",
+    "type": "who_am_i",
+    "category": "human-rights",
+    "prompt": "Who am I?",
+    "clues": [
+      "I was born in 1947 in Hamadan, in north-western Iran, and earned a law degree at the University of Tehran.",
+      "I became a judge in 1969 and in 1975 presided over a bench of the Tehran City Court, but after the 1979 revolution I was removed from the bench and given clerical duties.",
+      "In 2003 I became the first Muslim woman to win the Nobel Peace Prize, for my work on the rights of women, children and political prisoners."
+    ],
+    "options": [
+      {
+        "id": "a",
+        "text": "Tawakkol Karman",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Asma Jahangir",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Shirin Ebadi",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Benazir Bhutto",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Shirin Ebadi, an Iranian lawyer and former judge, won the 2003 Nobel Peace Prize for her human rights work, especially for women, children and political prisoners.",
+    "context": "After her dismissal she was unable to practise law until she obtained a licence in 1992. She co-founded the Association for Support of Children's Rights in 1995 and proposed the law banning violence against children that was ratified in 2002.",
+    "difficulty": 2,
+    "region": "Asia",
+    "entities": [
+      "Shirin Ebadi",
+      "Nobel Peace Prize"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Shirin Ebadi – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://nobelprize.org/prizes/peace/2003/ebadi/biographical",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Born in 1947 in Hamadan; law degree at the University of Tehran; judge from March 1969; president of Bench 24 of the Tehran City Court in 1975; dismissed after the 1979 revolution and given clerical duties; lawyer's licence in 1992; co-founded the Association for Support of Children's Rights in 1995; Nobel Peace Prize 2003."
+      },
+      {
+        "title": "Shirin Ebadi",
+        "publisher": "Nobel Women's Initiative",
+        "url": "https://nobelwomensinitiative.org/shirinebadi",
+        "accessedAt": "2026-11-11",
+        "type": "news",
+        "evidence": "Won the 2003 Nobel Peace Prize for her work on human rights, especially the rights of women, children and political prisoners in Iran; the first Muslim woman to receive it; removed from her judicial post after the 1979 revolution."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-w-15",
+    "type": "who_am_i",
+    "category": "politics",
+    "prompt": "Who am I?",
+    "clues": [
+      "I am a coalition of non-governmental organisations with partners in more than 100 countries.",
+      "I was launched in 2007, beginning in Australia, to campaign against one category of weapons of mass destruction.",
+      "In 2017 I won the Nobel Peace Prize for my efforts to achieve a treaty-based ban on nuclear weapons, a treaty adopted at the UN on 7 July that year."
+    ],
+    "options": [
+      {
+        "id": "a",
+        "text": "Pugwash Conferences on Science and World Affairs",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "International Physicians for the Prevention of Nuclear War",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Greenpeace",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The International Campaign to Abolish Nuclear Weapons (ICAN) received the 2017 Nobel Peace Prize for drawing attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition.",
+    "context": "The Treaty on the Prohibition of Nuclear Weapons was adopted in New York on 7 July 2017 with the backing of 122 nations. Beatrice Fihn and Setsuko Thurlow, a survivor of the Hiroshima bombing, delivered ICAN's Nobel Lecture in Oslo.",
+    "difficulty": 2,
+    "region": "Global",
+    "entities": [
+      "International Campaign to Abolish Nuclear Weapons",
+      "Nobel Peace Prize",
+      "Treaty on the Prohibition of Nuclear Weapons"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "International Campaign to Abolish Nuclear Weapons – Speed read",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/2017/ican/speedread/",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "ICAN was founded in 2007; the Treaty on the Prohibition of Nuclear Weapons was adopted by 122 UN member states on 7 July 2017; prize motivation for its work on humanitarian consequences and a treaty-based prohibition."
+      },
+      {
+        "title": "International Campaign to Abolish Nuclear Weapons – Facts",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/2017/ican/facts/",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Founded in 2007 in Australia; partner organisations in more than 100 countries; Nobel Peace Prize 2017."
+      },
+      {
+        "title": "ICAN receives 2017 Nobel Peace Prize",
+        "publisher": "ICAN",
+        "url": "https://www.icanw.org/ican_receives_2017_nobel_peace_prize",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Describes itself as a coalition of NGOs in one hundred countries; Nobel Peace Prize presented in Oslo on 10 December 2017; Beatrice Fihn and Setsuko Thurlow delivered the Nobel Lecture."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-w-16",
+    "type": "who_am_i",
+    "category": "disability",
+    "prompt": "Who am I?",
+    "clues": [
+      "I was born in Tuscumbia, Alabama, in 1880, and an illness at 19 months left me blind and deaf.",
+      "My teacher Anne Sullivan arrived in 1887, and in 1904 I became the first deaf-blind person to earn a Bachelor of Arts degree, from Radcliffe College.",
+      "I wrote The Story of My Life, worked with the American Foundation for the Blind from 1924, and received the Presidential Medal of Freedom in 1964."
+    ],
+    "options": [
+      {
+        "id": "a",
+        "text": "Helen Keller",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Laura Bridgman",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Louis Braille",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Anne Sullivan",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Helen Keller (1880–1968) became a world-famous author, lecturer and advocate for people with disabilities.",
+    "context": "Britannica notes that her lecturing helped prompt commissions for the blind in 30 US states by 1937, and that she co-founded the American Civil Liberties Union in 1920.",
+    "difficulty": 1,
+    "region": "North America",
+    "entities": [
+      "Helen Keller",
+      "American Foundation for the Blind"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Chronology of Helen Keller's Life",
+        "publisher": "American Foundation for the Blind",
+        "url": "https://www.afb.org/about-afb/history/helen-keller/biography-and-chronology/chronology",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Born 27 June 1880 in Tuscumbia; Anne Sullivan arrived 3 March 1887; graduated from Radcliffe on 28 June 1904 as the first deaf-blind person to earn a BA; worked with AFB from October 1924; Presidential Medal of Freedom in September 1964; wrote The Story of My Life (1903)."
+      },
+      {
+        "title": "Helen Keller",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Helen-Keller",
+        "accessedAt": "2026-11-11",
+        "type": "encyclopedia",
+        "evidence": "Left blind and deaf at 19 months by an illness; Sullivan taught her from March 1887; graduated cum laude from Radcliffe in 1904; lectured for the AFB; commissions for the blind in 30 states by 1937; co-founded the ACLU in 1920."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-w-17",
+    "type": "who_am_i",
+    "category": "tech",
+    "prompt": "Who am I?",
+    "clues": [
+      "I am a computer scientist and poet of code who studied at Oxford as a Rhodes Scholar and at MIT.",
+      "I call the way AI can overlook some faces the \"coded gaze\", and my research found bias in commercial AI services from companies such as IBM, Microsoft and Amazon.",
+      "I founded the Algorithmic Justice League in 2016 and led the 2018 Gender Shades study of facial analysis, which began as my MIT master's thesis."
+    ],
+    "options": [
+      {
+        "id": "a",
+        "text": "Cathy O'Neil",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Joy Buolamwini",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Safiya Noble",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Fei-Fei Li",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Joy Buolamwini is a researcher at the MIT Media Lab who founded the Algorithmic Justice League and led the Gender Shades project on bias in facial analysis.",
+    "context": "Gender Shades tested gender classification products from IBM, Microsoft and Face++ and was later extended to Amazon. The Algorithmic Justice League reports that IBM stopped offering facial recognition software and that Microsoft planned to retire face-based gender classification. The work also informed the documentary Coded Bias.",
+    "difficulty": 2,
+    "region": "North America",
+    "entities": [
+      "Joy Buolamwini",
+      "Algorithmic Justice League",
+      "Gender Shades"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Celebrating 5 Years of Gender Shades",
+        "publisher": "Algorithmic Justice League",
+        "url": "https://gs.ajl.org/",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Gender Shades was led by Joy Buolamwini with Timnit Gebru (2018 paper); began in 2016 as her MIT master's thesis; showed bias in gender classification from IBM, Microsoft and Face++, with Amazon in follow-up work; informed Coded Bias."
+      },
+      {
+        "title": "Joy Buolamwini",
+        "publisher": "Carnegie Corporation of New York",
+        "url": "https://carnegie.org/awards/honoree/joy-buolamwini",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Researcher at MIT Media Lab; founder of the Algorithmic Justice League (2016); Rhodes Scholar with a master's from Oxford and another from MIT; calls algorithmic bias the \"coded gaze\"; found racial and gender bias in AI services from Microsoft, IBM and Amazon; describes herself as a poet of code."
+      }
+    ],
+    "availableFrom": "2026-11-12"
+  },
+  {
+    "id": "demo-w-18",
+    "type": "who_am_i",
+    "category": "race",
+    "prompt": "Who am I?",
+    "clues": [
+      "I was born in 1914 into a poor family in Franca, in the Brazilian state of São Paulo.",
+      "In 1944 I founded the Teatro Experimental do Negro in Rio de Janeiro, after seeing a Black role played by a white actor in blackface, and I later published a newspaper called Quilombo.",
+      "As a federal deputy and later a senator for Rio de Janeiro, I proposed racial quotas, which I preferred to call compensatory action."
+    ],
+    "options": [
+      {
+        "id": "a",
+        "text": "Milton Santos",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Lélia Gonzalez",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Abdias Nascimento",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Luiz Gama",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Abdias Nascimento (1914–2011) was an Afro-Brazilian artist, activist and politician who used theatre and legislation to fight racism.",
+    "context": "He was a federal deputy in the 1980s and took a Senate seat for Rio de Janeiro in 1991, permanently in 1997. In 2004 he was recognised by the presidency as a leading Brazilian political figure in the fight for Black rights. He died in Rio de Janeiro on 23 May 2011.",
+    "difficulty": 3,
+    "region": "Latin America",
+    "entities": [
+      "Abdias Nascimento",
+      "Teatro Experimental do Negro"
+    ],
+    "verification": "verified",
+    "isDemo": false,
+    "sources": [
+      {
+        "title": "Senador Abdias Nascimento: uma vida dedicada à luta contra o racismo",
+        "publisher": "Agência Senado",
+        "url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/senador-abdias-nascimento-uma-vida-dedicada-a-luta-contra-o-racismo",
+        "accessedAt": "2026-11-11",
+        "type": "primary",
+        "evidence": "Born in 1914 in Franca (SP); founded the Teatro Experimental do Negro in 1944 in Rio de Janeiro after seeing a Black role played in blackface; published the newspaper Quilombo; federal deputy from 1983; senator from 1991 (permanently 1997); proposed racial quotas, preferring the term compensatory action; died 23 May 2011."
+      },
+      {
+        "title": "Nascimento, Abdias do (1914–2011)",
+        "publisher": "BlackPast",
+        "url": "https://blackpast.org/gah/nascimento-abdias-do-1914",
+        "accessedAt": "2026-11-11",
+        "type": "encyclopedia",
+        "evidence": "Born 14 March 1914 in São Paulo state; founded the theatre company in 1944 in Rio; went into self-exile after the 1964 coup; member of Congress in the 1980s; senator; recognised in 2004 as the greatest Brazilian political figure in the fight for Black rights."
+      }
+    ],
+    "availableFrom": "2026-11-12"
   }
 ]
